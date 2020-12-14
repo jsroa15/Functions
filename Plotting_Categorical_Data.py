@@ -11,6 +11,10 @@ def plotting_categorical(data,rows,cols,hue,x_list,size):
     size:Tupple with size of plot
     
   '''
+  
+  sns.set_style("whitegrid")
+  
+  
   pos=0
   f, axes = plt.subplots(nrows=rows, ncols=cols,figsize=size)
   for i in range(0,rows):
