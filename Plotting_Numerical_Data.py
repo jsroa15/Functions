@@ -1,4 +1,4 @@
-def plotting_numerical(dataf,rows,cols,x_list,size):
+def plotting_numerical(data,rows,cols,x_list,size):
   '''Plot numerical data in subplots using Seaborn
 
   Parameters
@@ -17,7 +17,7 @@ def plotting_numerical(dataf,rows,cols,x_list,size):
   for i in range(0,rows):
     for j in range(0,cols):
       
-      sns.kdeplot(data=dataf,ax=axes[i,j],x=x_list[pos])
+      sns.kdeplot(data=data,ax=axes[i,j],x=x_list[pos])
       pos+=1
 
   return(plt.show())
