@@ -1,4 +1,4 @@
-def plotting_numerical(data,rows,cols,x_list,size,log=False):
+def plotting_numerical(data,rows,cols,x_list,size,log=False,hue=None):
   '''Plot numerical data in subplots using Seaborn
     Parameters
     --------------
@@ -8,6 +8,7 @@ def plotting_numerical(data,rows,cols,x_list,size,log=False):
       x_list:List with features names
       size:Tupple with size of plot
       log: Boolean. Decide if histograms are showed with original scale (False) or Log-scale (True). Default False
+      hue: Variable name. If want to explore with one categorical feature. Default None
     
   '''
   
@@ -18,7 +19,7 @@ def plotting_numerical(data,rows,cols,x_list,size,log=False):
   for i in range(0,rows):
     for j in range(0,cols):
       
-      sns.histplot(data=data,ax=axes[i,j],x=x_list[pos],bins=50,log_scale=log)
+      sns.histplot(data=data,ax=axes[i,j],x=x_list[pos],bins=50,log_scale=log,hue=hue,multiple='stack')
       pos+=1
 
   return(plt.show())
