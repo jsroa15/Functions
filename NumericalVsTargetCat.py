@@ -1,5 +1,5 @@
 def plotting_numericalVsTarget(data,rows,cols,x_list,size,target):
-  '''Plot numerical data with categorical variables in subplots using Seaborn
+  '''Plot numerical data with categorical target feature
 
   Parameters
   --------------
