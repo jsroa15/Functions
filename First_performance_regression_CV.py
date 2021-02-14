@@ -20,3 +20,4 @@ def performance(model_dictionary,X_for_training,y_for_training,X_for_test,y_for_
   dff=pd.DataFrame([null_list1,null_list2],index=['Root MSE-CV','Root MSE-Test Set']).transpose()
   dff.index=index
   print(dff)
+ 
