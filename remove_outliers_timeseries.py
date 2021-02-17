@@ -17,3 +17,4 @@ prices_perc.loc["2014":"2015"].plot()
 plt.show() 
 
   
+ 
