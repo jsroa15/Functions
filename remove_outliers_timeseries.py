@@ -16,4 +16,4 @@ prices_perc = prices_perc.apply(replace_outliers)
 prices_perc.loc["2014":"2015"].plot()
 plt.show() 
 
- 
+  
