@@ -1,0 +1,892 @@
+PassengerId,Sobreviviente,Clase_Viaje,Nombre,Genero,Edad,Numero_Parientes,Numero_Padres,Tarifa,Cabin,Ciudad_Embarque
+1,0,3,"Braund, Mr. Owen Harris",Masculino,22,1,0,7.25,,Southhampton
+2,1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",Femenino,38,1,0,71.2833,C85,Cherbourg
+3,1,3,"Heikkinen, Miss. Laina",Femenino,26,0,0,7.925,,Southhampton
+4,1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",Femenino,35,1,0,53.1,C123,Southhampton
+5,0,3,"Allen, Mr. William Henry",Masculino,35,0,0,8.05,,Southhampton
+6,0,3,"Moran, Mr. James",Masculino,,0,0,8.4583,,Queenstown
+7,0,1,"McCarthy, Mr. Timothy J",Masculino,54,0,0,51.8625,E46,Southhampton
+8,0,3,"Palsson, Master. Gosta Leonard",Masculino,2,3,1,21.075,,Southhampton
+9,1,3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",Femenino,27,0,2,11.1333,,Southhampton
+10,1,2,"Nasser, Mrs. Nicholas (Adele Achem)",Femenino,14,1,0,30.0708,,Cherbourg
+11,1,3,"Sandstrom, Miss. Marguerite Rut",Femenino,4,1,1,16.7,G6,Southhampton
+12,1,1,"Bonnell, Miss. Elizabeth",Femenino,58,0,0,26.55,C103,Southhampton
+13,0,3,"Saundercock, Mr. William Henry",Masculino,20,0,0,8.05,,Southhampton
+14,0,3,"Andersson, Mr. Anders Johan",Masculino,39,1,5,31.275,,Southhampton
+15,0,3,"Vestrom, Miss. Hulda Amanda Adolfina",Femenino,14,0,0,7.8542,,Southhampton
+16,1,2,"Hewlett, Mrs. (Mary D Kingcome) ",Femenino,55,0,0,16,,Southhampton
+17,0,3,"Rice, Master. Eugene",Masculino,2,4,1,29.125,,Queenstown
+18,1,2,"Williams, Mr. Charles Eugene",Masculino,,0,0,13,,Southhampton
+19,0,3,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",Femenino,31,1,0,18,,Southhampton
+20,1,3,"Masselmani, Mrs. Fatima",Femenino,,0,0,7.225,,Cherbourg
+21,0,2,"Fynney, Mr. Joseph J",Masculino,35,0,0,26,,Southhampton
+22,1,2,"Beesley, Mr. Lawrence",Masculino,34,0,0,13,D56,Southhampton
+23,1,3,"McGowan, Miss. Anna ""Annie""",Femenino,15,0,0,8.0292,,Queenstown
+24,1,1,"Sloper, Mr. William Thompson",Masculino,28,0,0,35.5,A6,Southhampton
+25,0,3,"Palsson, Miss. Torborg Danira",Femenino,8,3,1,21.075,,Southhampton
+26,1,3,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",Femenino,38,1,5,31.3875,,Southhampton
+27,0,3,"Emir, Mr. Farred Chehab",Masculino,,0,0,7.225,,Cherbourg
+28,0,1,"Fortune, Mr. Charles Alexander",Masculino,19,3,2,263,C23 C25 C27,Southhampton
+29,1,3,"O'Dwyer, Miss. Ellen ""Nellie""",Femenino,,0,0,7.8792,,Queenstown
+30,0,3,"Todoroff, Mr. Lalio",Masculino,,0,0,7.8958,,Southhampton
+31,0,1,"Uruchurtu, Don. Manuel E",Masculino,40,0,0,27.7208,,Cherbourg
+32,1,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",Femenino,,1,0,146.5208,B78,Cherbourg
+33,1,3,"Glynn, Miss. Mary Agatha",Femenino,,0,0,7.75,,Queenstown
+34,0,2,"Wheadon, Mr. Edward H",Masculino,66,0,0,10.5,,Southhampton
+35,0,1,"Meyer, Mr. Edgar Joseph",Masculino,28,1,0,82.1708,,Cherbourg
+36,0,1,"Holverson, Mr. Alexander Oskar",Masculino,42,1,0,52,,Southhampton
+37,1,3,"Mamee, Mr. Hanna",Masculino,,0,0,7.2292,,Cherbourg
+38,0,3,"Cann, Mr. Ernest Charles",Masculino,21,0,0,8.05,,Southhampton
+39,0,3,"Vander Planke, Miss. Augusta Maria",Femenino,18,2,0,18,,Southhampton
+40,1,3,"Nicola-Yarred, Miss. Jamila",Femenino,14,1,0,11.2417,,Cherbourg
+41,0,3,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",Femenino,40,1,0,9.475,,Southhampton
+42,0,2,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",Femenino,27,1,0,21,,Southhampton
+43,0,3,"Kraeff, Mr. Theodor",Masculino,,0,0,7.8958,,Cherbourg
+44,1,2,"Laroche, Miss. Simonne Marie Anne Andree",Femenino,3,1,2,41.5792,,Cherbourg
+45,1,3,"Devaney, Miss. Margaret Delia",Femenino,19,0,0,7.8792,,Queenstown
+46,0,3,"Rogers, Mr. William John",Masculino,,0,0,8.05,,Southhampton
+47,0,3,"Lennon, Mr. Denis",Masculino,,1,0,15.5,,Queenstown
+48,1,3,"O'Driscoll, Miss. Bridget",Femenino,,0,0,7.75,,Queenstown
+49,0,3,"Samaan, Mr. Youssef",Masculino,,2,0,21.6792,,Cherbourg
+50,0,3,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",Femenino,18,1,0,17.8,,Southhampton
+51,0,3,"Panula, Master. Juha Niilo",Masculino,7,4,1,39.6875,,Southhampton
+52,0,3,"Nosworthy, Mr. Richard Cater",Masculino,21,0,0,7.8,,Southhampton
+53,1,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",Femenino,49,1,0,76.7292,D33,Cherbourg
+54,1,2,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",Femenino,29,1,0,26,,Southhampton
+55,0,1,"Ostby, Mr. Engelhart Cornelius",Masculino,65,0,1,61.9792,B30,Cherbourg
+56,1,1,"Woolner, Mr. Hugh",Masculino,,0,0,35.5,C52,Southhampton
+57,1,2,"Rugg, Miss. Emily",Femenino,21,0,0,10.5,,Southhampton
+58,0,3,"Novel, Mr. Mansouer",Masculino,28.5,0,0,7.2292,,Cherbourg
+59,1,2,"West, Miss. Constance Mirium",Femenino,5,1,2,27.75,,Southhampton
+60,0,3,"Goodwin, Master. William Frederick",Masculino,11,5,2,46.9,,Southhampton
+61,0,3,"Sirayanian, Mr. Orsen",Masculino,22,0,0,7.2292,,Cherbourg
+62,1,1,"Icard, Miss. Amelie",Femenino,38,0,0,80,B28,
+63,0,1,"Harris, Mr. Henry Birkhardt",Masculino,45,1,0,83.475,C83,Southhampton
+64,0,3,"Skoog, Master. Harald",Masculino,4,3,2,27.9,,Southhampton
+65,0,1,"Stewart, Mr. Albert A",Masculino,,0,0,27.7208,,Cherbourg
+66,1,3,"Moubarek, Master. Gerios",Masculino,,1,1,15.2458,,Cherbourg
+67,1,2,"Nye, Mrs. (Elizabeth Ramell)",Femenino,29,0,0,10.5,F33,Southhampton
+68,0,3,"Crease, Mr. Ernest James",Masculino,19,0,0,8.1583,,Southhampton
+69,1,3,"Andersson, Miss. Erna Alexandra",Femenino,17,4,2,7.925,,Southhampton
+70,0,3,"Kink, Mr. Vincenz",Masculino,26,2,0,8.6625,,Southhampton
+71,0,2,"Jenkin, Mr. Stephen Curnow",Masculino,32,0,0,10.5,,Southhampton
+72,0,3,"Goodwin, Miss. Lillian Amy",Femenino,16,5,2,46.9,,Southhampton
+73,0,2,"Hood, Mr. Ambrose Jr",Masculino,21,0,0,73.5,,Southhampton
+74,0,3,"Chronopoulos, Mr. Apostolos",Masculino,26,1,0,14.4542,,Cherbourg
+75,1,3,"Bing, Mr. Lee",Masculino,32,0,0,56.4958,,Southhampton
+76,0,3,"Moen, Mr. Sigurd Hansen",Masculino,25,0,0,7.65,F G73,Southhampton
+77,0,3,"Staneff, Mr. Ivan",Masculino,,0,0,7.8958,,Southhampton
+78,0,3,"Moutal, Mr. Rahamin Haim",Masculino,,0,0,8.05,,Southhampton
+79,1,2,"Caldwell, Master. Alden Gates",Masculino,0.83,0,2,29,,Southhampton
+80,1,3,"Dowdell, Miss. Elizabeth",Femenino,30,0,0,12.475,,Southhampton
+81,0,3,"Waelens, Mr. Achille",Masculino,22,0,0,9,,Southhampton
+82,1,3,"Sheerlinck, Mr. Jan Baptist",Masculino,29,0,0,9.5,,Southhampton
+83,1,3,"McDermott, Miss. Brigdet Delia",Femenino,,0,0,7.7875,,Queenstown
+84,0,1,"Carrau, Mr. Francisco M",Masculino,28,0,0,47.1,,Southhampton
+85,1,2,"Ilett, Miss. Bertha",Femenino,17,0,0,10.5,,Southhampton
+86,1,3,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",Femenino,33,3,0,15.85,,Southhampton
+87,0,3,"Ford, Mr. William Neal",Masculino,16,1,3,34.375,,Southhampton
+88,0,3,"Slocovski, Mr. Selman Francis",Masculino,,0,0,8.05,,Southhampton
+89,1,1,"Fortune, Miss. Mabel Helen",Femenino,23,3,2,263,C23 C25 C27,Southhampton
+90,0,3,"Celotti, Mr. Francesco",Masculino,24,0,0,8.05,,Southhampton
+91,0,3,"Christmann, Mr. Emil",Masculino,29,0,0,8.05,,Southhampton
+92,0,3,"Andreasson, Mr. Paul Edvin",Masculino,20,0,0,7.8542,,Southhampton
+93,0,1,"Chaffee, Mr. Herbert Fuller",Masculino,46,1,0,61.175,E31,Southhampton
+94,0,3,"Dean, Mr. Bertram Frank",Masculino,26,1,2,20.575,,Southhampton
+95,0,3,"Coxon, Mr. Daniel",Masculino,59,0,0,7.25,,Southhampton
+96,0,3,"Shorney, Mr. Charles Joseph",Masculino,,0,0,8.05,,Southhampton
+97,0,1,"Goldschmidt, Mr. George B",Masculino,71,0,0,34.6542,A5,Cherbourg
+98,1,1,"Greenfield, Mr. William Bertram",Masculino,23,0,1,63.3583,D10 D12,Cherbourg
+99,1,2,"Doling, Mrs. John T (Ada Julia Bone)",Femenino,34,0,1,23,,Southhampton
+100,0,2,"Kantor, Mr. Sinai",Masculino,34,1,0,26,,Southhampton
+101,0,3,"Petranec, Miss. Matilda",Femenino,28,0,0,7.8958,,Southhampton
+102,0,3,"Petroff, Mr. Pastcho (""Pentcho"")",Masculino,,0,0,7.8958,,Southhampton
+103,0,1,"White, Mr. Richard Frasar",Masculino,21,0,1,77.2875,D26,Southhampton
+104,0,3,"Johansson, Mr. Gustaf Joel",Masculino,33,0,0,8.6542,,Southhampton
+105,0,3,"Gustafsson, Mr. Anders Vilhelm",Masculino,37,2,0,7.925,,Southhampton
+106,0,3,"Mionoff, Mr. Stoytcho",Masculino,28,0,0,7.8958,,Southhampton
+107,1,3,"Salkjelsvik, Miss. Anna Kristine",Femenino,21,0,0,7.65,,Southhampton
+108,1,3,"Moss, Mr. Albert Johan",Masculino,,0,0,7.775,,Southhampton
+109,0,3,"Rekic, Mr. Tido",Masculino,38,0,0,7.8958,,Southhampton
+110,1,3,"Moran, Miss. Bertha",Femenino,,1,0,24.15,,Queenstown
+111,0,1,"Porter, Mr. Walter Chamberlain",Masculino,47,0,0,52,C110,Southhampton
+112,0,3,"Zabour, Miss. Hileni",Femenino,14.5,1,0,14.4542,,Cherbourg
+113,0,3,"Barton, Mr. David John",Masculino,22,0,0,8.05,,Southhampton
+114,0,3,"Jussila, Miss. Katriina",Femenino,20,1,0,9.825,,Southhampton
+115,0,3,"Attalah, Miss. Malake",Femenino,17,0,0,14.4583,,Cherbourg
+116,0,3,"Pekoniemi, Mr. Edvard",Masculino,21,0,0,7.925,,Southhampton
+117,0,3,"Connors, Mr. Patrick",Masculino,70.5,0,0,7.75,,Queenstown
+118,0,2,"Turpin, Mr. William John Robert",Masculino,29,1,0,21,,Southhampton
+119,0,1,"Baxter, Mr. Quigg Edmond",Masculino,24,0,1,247.5208,B58 B60,Cherbourg
+120,0,3,"Andersson, Miss. Ellis Anna Maria",Femenino,2,4,2,31.275,,Southhampton
+121,0,2,"Hickman, Mr. Stanley George",Masculino,21,2,0,73.5,,Southhampton
+122,0,3,"Moore, Mr. Leonard Charles",Masculino,,0,0,8.05,,Southhampton
+123,0,2,"Nasser, Mr. Nicholas",Masculino,32.5,1,0,30.0708,,Cherbourg
+124,1,2,"Webber, Miss. Susan",Femenino,32.5,0,0,13,E101,Southhampton
+125,0,1,"White, Mr. Percival Wayland",Masculino,54,0,1,77.2875,D26,Southhampton
+126,1,3,"Nicola-Yarred, Master. Elias",Masculino,12,1,0,11.2417,,Cherbourg
+127,0,3,"McMahon, Mr. Martin",Masculino,,0,0,7.75,,Queenstown
+128,1,3,"Madsen, Mr. Fridtjof Arne",Masculino,24,0,0,7.1417,,Southhampton
+129,1,3,"Peter, Miss. Anna",Femenino,,1,1,22.3583,F E69,Cherbourg
+130,0,3,"Ekstrom, Mr. Johan",Masculino,45,0,0,6.975,,Southhampton
+131,0,3,"Drazenoic, Mr. Jozef",Masculino,33,0,0,7.8958,,Cherbourg
+132,0,3,"Coelho, Mr. Domingos Fernandeo",Masculino,20,0,0,7.05,,Southhampton
+133,0,3,"Robins, Mrs. Alexander A (Grace Charity Laury)",Femenino,47,1,0,14.5,,Southhampton
+134,1,2,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",Femenino,29,1,0,26,,Southhampton
+135,0,2,"Sobey, Mr. Samuel James Hayden",Masculino,25,0,0,13,,Southhampton
+136,0,2,"Richard, Mr. Emile",Masculino,23,0,0,15.0458,,Cherbourg
+137,1,1,"Newsom, Miss. Helen Monypeny",Femenino,19,0,2,26.2833,D47,Southhampton
+138,0,1,"Futrelle, Mr. Jacques Heath",Masculino,37,1,0,53.1,C123,Southhampton
+139,0,3,"Osen, Mr. Olaf Elon",Masculino,16,0,0,9.2167,,Southhampton
+140,0,1,"Giglio, Mr. Victor",Masculino,24,0,0,79.2,B86,Cherbourg
+141,0,3,"Boulos, Mrs. Joseph (Sultana)",Femenino,,0,2,15.2458,,Cherbourg
+142,1,3,"Nysten, Miss. Anna Sofia",Femenino,22,0,0,7.75,,Southhampton
+143,1,3,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",Femenino,24,1,0,15.85,,Southhampton
+144,0,3,"Burke, Mr. Jeremiah",Masculino,19,0,0,6.75,,Queenstown
+145,0,2,"Andrew, Mr. Edgardo Samuel",Masculino,18,0,0,11.5,,Southhampton
+146,0,2,"Nicholls, Mr. Joseph Charles",Masculino,19,1,1,36.75,,Southhampton
+147,1,3,"Andersson, Mr. August Edvard (""Wennerstrom"")",Masculino,27,0,0,7.7958,,Southhampton
+148,0,3,"Ford, Miss. Robina Maggie ""Ruby""",Femenino,9,2,2,34.375,,Southhampton
+149,0,2,"Navratil, Mr. Michel (""Louis M Hoffman"")",Masculino,36.5,0,2,26,F2,Southhampton
+150,0,2,"Byles, Rev. Thomas Roussel Davids",Masculino,42,0,0,13,,Southhampton
+151,0,2,"Bateman, Rev. Robert James",Masculino,51,0,0,12.525,,Southhampton
+152,1,1,"Pears, Mrs. Thomas (Edith Wearne)",Femenino,22,1,0,66.6,C2,Southhampton
+153,0,3,"Meo, Mr. Alfonzo",Masculino,55.5,0,0,8.05,,Southhampton
+154,0,3,"van Billiard, Mr. Austin Blyler",Masculino,40.5,0,2,14.5,,Southhampton
+155,0,3,"Olsen, Mr. Ole Martin",Masculino,,0,0,7.3125,,Southhampton
+156,0,1,"Williams, Mr. Charles Duane",Masculino,51,0,1,61.3792,,Cherbourg
+157,1,3,"Gilnagh, Miss. Katherine ""Katie""",Femenino,16,0,0,7.7333,,Queenstown
+158,0,3,"Corn, Mr. Harry",Masculino,30,0,0,8.05,,Southhampton
+159,0,3,"Smiljanic, Mr. Mile",Masculino,,0,0,8.6625,,Southhampton
+160,0,3,"Sage, Master. Thomas Henry",Masculino,,8,2,69.55,,Southhampton
+161,0,3,"Cribb, Mr. John Hatfield",Masculino,44,0,1,16.1,,Southhampton
+162,1,2,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",Femenino,40,0,0,15.75,,Southhampton
+163,0,3,"Bengtsson, Mr. John Viktor",Masculino,26,0,0,7.775,,Southhampton
+164,0,3,"Calic, Mr. Jovo",Masculino,17,0,0,8.6625,,Southhampton
+165,0,3,"Panula, Master. Eino Viljami",Masculino,1,4,1,39.6875,,Southhampton
+166,1,3,"Goldsmith, Master. Frank John William ""Frankie""",Masculino,9,0,2,20.525,,Southhampton
+167,1,1,"Chibnall, Mrs. (Edith Martha Bowerman)",Femenino,,0,1,55,E33,Southhampton
+168,0,3,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",Femenino,45,1,4,27.9,,Southhampton
+169,0,1,"Baumann, Mr. John D",Masculino,,0,0,25.925,,Southhampton
+170,0,3,"Ling, Mr. Lee",Masculino,28,0,0,56.4958,,Southhampton
+171,0,1,"Van der hoef, Mr. Wyckoff",Masculino,61,0,0,33.5,B19,Southhampton
+172,0,3,"Rice, Master. Arthur",Masculino,4,4,1,29.125,,Queenstown
+173,1,3,"Johnson, Miss. Eleanor Ileen",Femenino,1,1,1,11.1333,,Southhampton
+174,0,3,"Sivola, Mr. Antti Wilhelm",Masculino,21,0,0,7.925,,Southhampton
+175,0,1,"Smith, Mr. James Clinch",Masculino,56,0,0,30.6958,A7,Cherbourg
+176,0,3,"Klasen, Mr. Klas Albin",Masculino,18,1,1,7.8542,,Southhampton
+177,0,3,"Lefebre, Master. Henry Forbes",Masculino,,3,1,25.4667,,Southhampton
+178,0,1,"Isham, Miss. Ann Elizabeth",Femenino,50,0,0,28.7125,C49,Cherbourg
+179,0,2,"Hale, Mr. Reginald",Masculino,30,0,0,13,,Southhampton
+180,0,3,"Leonard, Mr. Lionel",Masculino,36,0,0,0,,Southhampton
+181,0,3,"Sage, Miss. Constance Gladys",Femenino,,8,2,69.55,,Southhampton
+182,0,2,"Pernot, Mr. Rene",Masculino,,0,0,15.05,,Cherbourg
+183,0,3,"Asplund, Master. Clarence Gustaf Hugo",Masculino,9,4,2,31.3875,,Southhampton
+184,1,2,"Becker, Master. Richard F",Masculino,1,2,1,39,F4,Southhampton
+185,1,3,"Kink-Heilmann, Miss. Luise Gretchen",Femenino,4,0,2,22.025,,Southhampton
+186,0,1,"Rood, Mr. Hugh Roscoe",Masculino,,0,0,50,A32,Southhampton
+187,1,3,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",Femenino,,1,0,15.5,,Queenstown
+188,1,1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",Masculino,45,0,0,26.55,,Southhampton
+189,0,3,"Bourke, Mr. John",Masculino,40,1,1,15.5,,Queenstown
+190,0,3,"Turcin, Mr. Stjepan",Masculino,36,0,0,7.8958,,Southhampton
+191,1,2,"Pinsky, Mrs. (Rosa)",Femenino,32,0,0,13,,Southhampton
+192,0,2,"Carbines, Mr. William",Masculino,19,0,0,13,,Southhampton
+193,1,3,"Andersen-Jensen, Miss. Carla Christine Nielsine",Femenino,19,1,0,7.8542,,Southhampton
+194,1,2,"Navratil, Master. Michel M",Masculino,3,1,1,26,F2,Southhampton
+195,1,1,"Brown, Mrs. James Joseph (Margaret Tobin)",Femenino,44,0,0,27.7208,B4,Cherbourg
+196,1,1,"Lurette, Miss. Elise",Femenino,58,0,0,146.5208,B80,Cherbourg
+197,0,3,"Mernagh, Mr. Robert",Masculino,,0,0,7.75,,Queenstown
+198,0,3,"Olsen, Mr. Karl Siegwart Andreas",Masculino,42,0,1,8.4042,,Southhampton
+199,1,3,"Madigan, Miss. Margaret ""Maggie""",Femenino,,0,0,7.75,,Queenstown
+200,0,2,"Yrois, Miss. Henriette (""Mrs Harbeck"")",Femenino,24,0,0,13,,Southhampton
+201,0,3,"Vande Walle, Mr. Nestor Cyriel",Masculino,28,0,0,9.5,,Southhampton
+202,0,3,"Sage, Mr. Frederick",Masculino,,8,2,69.55,,Southhampton
+203,0,3,"Johanson, Mr. Jakob Alfred",Masculino,34,0,0,6.4958,,Southhampton
+204,0,3,"Youseff, Mr. Gerious",Masculino,45.5,0,0,7.225,,Cherbourg
+205,1,3,"Cohen, Mr. Gurshon ""Gus""",Masculino,18,0,0,8.05,,Southhampton
+206,0,3,"Strom, Miss. Telma Matilda",Femenino,2,0,1,10.4625,G6,Southhampton
+207,0,3,"Backstrom, Mr. Karl Alfred",Masculino,32,1,0,15.85,,Southhampton
+208,1,3,"Albimona, Mr. Nassef Cassem",Masculino,26,0,0,18.7875,,Cherbourg
+209,1,3,"Carr, Miss. Helen ""Ellen""",Femenino,16,0,0,7.75,,Queenstown
+210,1,1,"Blank, Mr. Henry",Masculino,40,0,0,31,A31,Cherbourg
+211,0,3,"Ali, Mr. Ahmed",Masculino,24,0,0,7.05,,Southhampton
+212,1,2,"Cameron, Miss. Clear Annie",Femenino,35,0,0,21,,Southhampton
+213,0,3,"Perkin, Mr. John Henry",Masculino,22,0,0,7.25,,Southhampton
+214,0,2,"Givard, Mr. Hans Kristensen",Masculino,30,0,0,13,,Southhampton
+215,0,3,"Kiernan, Mr. Philip",Masculino,,1,0,7.75,,Queenstown
+216,1,1,"Newell, Miss. Madeleine",Femenino,31,1,0,113.275,D36,Cherbourg
+217,1,3,"Honkanen, Miss. Eliina",Femenino,27,0,0,7.925,,Southhampton
+218,0,2,"Jacobsohn, Mr. Sidney Samuel",Masculino,42,1,0,27,,Southhampton
+219,1,1,"Bazzani, Miss. Albina",Femenino,32,0,0,76.2917,D15,Cherbourg
+220,0,2,"Harris, Mr. Walter",Masculino,30,0,0,10.5,,Southhampton
+221,1,3,"Sunderland, Mr. Victor Francis",Masculino,16,0,0,8.05,,Southhampton
+222,0,2,"Bracken, Mr. James H",Masculino,27,0,0,13,,Southhampton
+223,0,3,"Green, Mr. George Henry",Masculino,51,0,0,8.05,,Southhampton
+224,0,3,"Nenkoff, Mr. Christo",Masculino,,0,0,7.8958,,Southhampton
+225,1,1,"Hoyt, Mr. Frederick Maxfield",Masculino,38,1,0,90,C93,Southhampton
+226,0,3,"Berglund, Mr. Karl Ivar Sven",Masculino,22,0,0,9.35,,Southhampton
+227,1,2,"Mellors, Mr. William John",Masculino,19,0,0,10.5,,Southhampton
+228,0,3,"Lovell, Mr. John Hall (""Henry"")",Masculino,20.5,0,0,7.25,,Southhampton
+229,0,2,"Fahlstrom, Mr. Arne Jonas",Masculino,18,0,0,13,,Southhampton
+230,0,3,"Lefebre, Miss. Mathilde",Femenino,,3,1,25.4667,,Southhampton
+231,1,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",Femenino,35,1,0,83.475,C83,Southhampton
+232,0,3,"Larsson, Mr. Bengt Edvin",Masculino,29,0,0,7.775,,Southhampton
+233,0,2,"Sjostedt, Mr. Ernst Adolf",Masculino,59,0,0,13.5,,Southhampton
+234,1,3,"Asplund, Miss. Lillian Gertrud",Femenino,5,4,2,31.3875,,Southhampton
+235,0,2,"Leyson, Mr. Robert William Norman",Masculino,24,0,0,10.5,,Southhampton
+236,0,3,"Harknett, Miss. Alice Phoebe",Femenino,,0,0,7.55,,Southhampton
+237,0,2,"Hold, Mr. Stephen",Masculino,44,1,0,26,,Southhampton
+238,1,2,"Collyer, Miss. Marjorie ""Lottie""",Femenino,8,0,2,26.25,,Southhampton
+239,0,2,"Pengelly, Mr. Frederick William",Masculino,19,0,0,10.5,,Southhampton
+240,0,2,"Hunt, Mr. George Henry",Masculino,33,0,0,12.275,,Southhampton
+241,0,3,"Zabour, Miss. Thamine",Femenino,,1,0,14.4542,,Cherbourg
+242,1,3,"Murphy, Miss. Katherine ""Kate""",Femenino,,1,0,15.5,,Queenstown
+243,0,2,"Coleridge, Mr. Reginald Charles",Masculino,29,0,0,10.5,,Southhampton
+244,0,3,"Maenpaa, Mr. Matti Alexanteri",Masculino,22,0,0,7.125,,Southhampton
+245,0,3,"Attalah, Mr. Sleiman",Masculino,30,0,0,7.225,,Cherbourg
+246,0,1,"Minahan, Dr. William Edward",Masculino,44,2,0,90,C78,Queenstown
+247,0,3,"Lindahl, Miss. Agda Thorilda Viktoria",Femenino,25,0,0,7.775,,Southhampton
+248,1,2,"Hamalainen, Mrs. William (Anna)",Femenino,24,0,2,14.5,,Southhampton
+249,1,1,"Beckwith, Mr. Richard Leonard",Masculino,37,1,1,52.5542,D35,Southhampton
+250,0,2,"Carter, Rev. Ernest Courtenay",Masculino,54,1,0,26,,Southhampton
+251,0,3,"Reed, Mr. James George",Masculino,,0,0,7.25,,Southhampton
+252,0,3,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",Femenino,29,1,1,10.4625,G6,Southhampton
+253,0,1,"Stead, Mr. William Thomas",Masculino,62,0,0,26.55,C87,Southhampton
+254,0,3,"Lobb, Mr. William Arthur",Masculino,30,1,0,16.1,,Southhampton
+255,0,3,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",Femenino,41,0,2,20.2125,,Southhampton
+256,1,3,"Touma, Mrs. Darwis (Hanne Youssef Razi)",Femenino,29,0,2,15.2458,,Cherbourg
+257,1,1,"Thorne, Mrs. Gertrude Maybelle",Femenino,,0,0,79.2,,Cherbourg
+258,1,1,"Cherry, Miss. Gladys",Femenino,30,0,0,86.5,B77,Southhampton
+259,1,1,"Ward, Miss. Anna",Femenino,35,0,0,512.3292,,Cherbourg
+260,1,2,"Parrish, Mrs. (Lutie Davis)",Femenino,50,0,1,26,,Southhampton
+261,0,3,"Smith, Mr. Thomas",Masculino,,0,0,7.75,,Queenstown
+262,1,3,"Asplund, Master. Edvin Rojj Felix",Masculino,3,4,2,31.3875,,Southhampton
+263,0,1,"Taussig, Mr. Emil",Masculino,52,1,1,79.65,E67,Southhampton
+264,0,1,"Harrison, Mr. William",Masculino,40,0,0,0,B94,Southhampton
+265,0,3,"Henry, Miss. Delia",Femenino,,0,0,7.75,,Queenstown
+266,0,2,"Reeves, Mr. David",Masculino,36,0,0,10.5,,Southhampton
+267,0,3,"Panula, Mr. Ernesti Arvid",Masculino,16,4,1,39.6875,,Southhampton
+268,1,3,"Persson, Mr. Ernst Ulrik",Masculino,25,1,0,7.775,,Southhampton
+269,1,1,"Graham, Mrs. William Thompson (Edith Junkins)",Femenino,58,0,1,153.4625,C125,Southhampton
+270,1,1,"Bissette, Miss. Amelia",Femenino,35,0,0,135.6333,C99,Southhampton
+271,0,1,"Cairns, Mr. Alexander",Masculino,,0,0,31,,Southhampton
+272,1,3,"Tornquist, Mr. William Henry",Masculino,25,0,0,0,,Southhampton
+273,1,2,"Mellinger, Mrs. (Elizabeth Anne Maidment)",Femenino,41,0,1,19.5,,Southhampton
+274,0,1,"Natsch, Mr. Charles H",Masculino,37,0,1,29.7,C118,Cherbourg
+275,1,3,"Healy, Miss. Hanora ""Nora""",Femenino,,0,0,7.75,,Queenstown
+276,1,1,"Andrews, Miss. Kornelia Theodosia",Femenino,63,1,0,77.9583,D7,Southhampton
+277,0,3,"Lindblom, Miss. Augusta Charlotta",Femenino,45,0,0,7.75,,Southhampton
+278,0,2,"Parkes, Mr. Francis ""Frank""",Masculino,,0,0,0,,Southhampton
+279,0,3,"Rice, Master. Eric",Masculino,7,4,1,29.125,,Queenstown
+280,1,3,"Abbott, Mrs. Stanton (Rosa Hunt)",Femenino,35,1,1,20.25,,Southhampton
+281,0,3,"Duane, Mr. Frank",Masculino,65,0,0,7.75,,Queenstown
+282,0,3,"Olsson, Mr. Nils Johan Goransson",Masculino,28,0,0,7.8542,,Southhampton
+283,0,3,"de Pelsmaeker, Mr. Alfons",Masculino,16,0,0,9.5,,Southhampton
+284,1,3,"Dorking, Mr. Edward Arthur",Masculino,19,0,0,8.05,,Southhampton
+285,0,1,"Smith, Mr. Richard William",Masculino,,0,0,26,A19,Southhampton
+286,0,3,"Stankovic, Mr. Ivan",Masculino,33,0,0,8.6625,,Cherbourg
+287,1,3,"de Mulder, Mr. Theodore",Masculino,30,0,0,9.5,,Southhampton
+288,0,3,"Naidenoff, Mr. Penko",Masculino,22,0,0,7.8958,,Southhampton
+289,1,2,"Hosono, Mr. Masabumi",Masculino,42,0,0,13,,Southhampton
+290,1,3,"Connolly, Miss. Kate",Femenino,22,0,0,7.75,,Queenstown
+291,1,1,"Barber, Miss. Ellen ""Nellie""",Femenino,26,0,0,78.85,,Southhampton
+292,1,1,"Bishop, Mrs. Dickinson H (Helen Walton)",Femenino,19,1,0,91.0792,B49,Cherbourg
+293,0,2,"Levy, Mr. Rene Jacques",Masculino,36,0,0,12.875,D,Cherbourg
+294,0,3,"Haas, Miss. Aloisia",Femenino,24,0,0,8.85,,Southhampton
+295,0,3,"Mineff, Mr. Ivan",Masculino,24,0,0,7.8958,,Southhampton
+296,0,1,"Lewy, Mr. Ervin G",Masculino,,0,0,27.7208,,Cherbourg
+297,0,3,"Hanna, Mr. Mansour",Masculino,23.5,0,0,7.2292,,Cherbourg
+298,0,1,"Allison, Miss. Helen Loraine",Femenino,2,1,2,151.55,C22 C26,Southhampton
+299,1,1,"Saalfeld, Mr. Adolphe",Masculino,,0,0,30.5,C106,Southhampton
+300,1,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",Femenino,50,0,1,247.5208,B58 B60,Cherbourg
+301,1,3,"Kelly, Miss. Anna Katherine ""Annie Kate""",Femenino,,0,0,7.75,,Queenstown
+302,1,3,"McCoy, Mr. Bernard",Masculino,,2,0,23.25,,Queenstown
+303,0,3,"Johnson, Mr. William Cahoone Jr",Masculino,19,0,0,0,,Southhampton
+304,1,2,"Keane, Miss. Nora A",Femenino,,0,0,12.35,E101,Queenstown
+305,0,3,"Williams, Mr. Howard Hugh ""Harry""",Masculino,,0,0,8.05,,Southhampton
+306,1,1,"Allison, Master. Hudson Trevor",Masculino,0.92,1,2,151.55,C22 C26,Southhampton
+307,1,1,"Fleming, Miss. Margaret",Femenino,,0,0,110.8833,,Cherbourg
+308,1,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",Femenino,17,1,0,108.9,C65,Cherbourg
+309,0,2,"Abelson, Mr. Samuel",Masculino,30,1,0,24,,Cherbourg
+310,1,1,"Francatelli, Miss. Laura Mabel",Femenino,30,0,0,56.9292,E36,Cherbourg
+311,1,1,"Hays, Miss. Margaret Bechstein",Femenino,24,0,0,83.1583,C54,Cherbourg
+312,1,1,"Ryerson, Miss. Emily Borie",Femenino,18,2,2,262.375,B57 B59 B63 B66,Cherbourg
+313,0,2,"Lahtinen, Mrs. William (Anna Sylfven)",Femenino,26,1,1,26,,Southhampton
+314,0,3,"Hendekovic, Mr. Ignjac",Masculino,28,0,0,7.8958,,Southhampton
+315,0,2,"Hart, Mr. Benjamin",Masculino,43,1,1,26.25,,Southhampton
+316,1,3,"Nilsson, Miss. Helmina Josefina",Femenino,26,0,0,7.8542,,Southhampton
+317,1,2,"Kantor, Mrs. Sinai (Miriam Sternin)",Femenino,24,1,0,26,,Southhampton
+318,0,2,"Moraweck, Dr. Ernest",Masculino,54,0,0,14,,Southhampton
+319,1,1,"Wick, Miss. Mary Natalie",Femenino,31,0,2,164.8667,C7,Southhampton
+320,1,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",Femenino,40,1,1,134.5,E34,Cherbourg
+321,0,3,"Dennis, Mr. Samuel",Masculino,22,0,0,7.25,,Southhampton
+322,0,3,"Danoff, Mr. Yoto",Masculino,27,0,0,7.8958,,Southhampton
+323,1,2,"Slayter, Miss. Hilda Mary",Femenino,30,0,0,12.35,,Queenstown
+324,1,2,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",Femenino,22,1,1,29,,Southhampton
+325,0,3,"Sage, Mr. George John Jr",Masculino,,8,2,69.55,,Southhampton
+326,1,1,"Young, Miss. Marie Grice",Femenino,36,0,0,135.6333,C32,Cherbourg
+327,0,3,"Nysveen, Mr. Johan Hansen",Masculino,61,0,0,6.2375,,Southhampton
+328,1,2,"Ball, Mrs. (Ada E Hall)",Femenino,36,0,0,13,D,Southhampton
+329,1,3,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",Femenino,31,1,1,20.525,,Southhampton
+330,1,1,"Hippach, Miss. Jean Gertrude",Femenino,16,0,1,57.9792,B18,Cherbourg
+331,1,3,"McCoy, Miss. Agnes",Femenino,,2,0,23.25,,Queenstown
+332,0,1,"Partner, Mr. Austen",Masculino,45.5,0,0,28.5,C124,Southhampton
+333,0,1,"Graham, Mr. George Edward",Masculino,38,0,1,153.4625,C91,Southhampton
+334,0,3,"Vander Planke, Mr. Leo Edmondus",Masculino,16,2,0,18,,Southhampton
+335,1,1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",Femenino,,1,0,133.65,,Southhampton
+336,0,3,"Denkoff, Mr. Mitto",Masculino,,0,0,7.8958,,Southhampton
+337,0,1,"Pears, Mr. Thomas Clinton",Masculino,29,1,0,66.6,C2,Southhampton
+338,1,1,"Burns, Miss. Elizabeth Margaret",Femenino,41,0,0,134.5,E40,Cherbourg
+339,1,3,"Dahl, Mr. Karl Edwart",Masculino,45,0,0,8.05,,Southhampton
+340,0,1,"Blackwell, Mr. Stephen Weart",Masculino,45,0,0,35.5,T,Southhampton
+341,1,2,"Navratil, Master. Edmond Roger",Masculino,2,1,1,26,F2,Southhampton
+342,1,1,"Fortune, Miss. Alice Elizabeth",Femenino,24,3,2,263,C23 C25 C27,Southhampton
+343,0,2,"Collander, Mr. Erik Gustaf",Masculino,28,0,0,13,,Southhampton
+344,0,2,"Sedgwick, Mr. Charles Frederick Waddington",Masculino,25,0,0,13,,Southhampton
+345,0,2,"Fox, Mr. Stanley Hubert",Masculino,36,0,0,13,,Southhampton
+346,1,2,"Brown, Miss. Amelia ""Mildred""",Femenino,24,0,0,13,F33,Southhampton
+347,1,2,"Smith, Miss. Marion Elsie",Femenino,40,0,0,13,,Southhampton
+348,1,3,"Davison, Mrs. Thomas Henry (Mary E Finck)",Femenino,,1,0,16.1,,Southhampton
+349,1,3,"Coutts, Master. William Loch ""William""",Masculino,3,1,1,15.9,,Southhampton
+350,0,3,"Dimic, Mr. Jovan",Masculino,42,0,0,8.6625,,Southhampton
+351,0,3,"Odahl, Mr. Nils Martin",Masculino,23,0,0,9.225,,Southhampton
+352,0,1,"Williams-Lambert, Mr. Fletcher Fellows",Masculino,,0,0,35,C128,Southhampton
+353,0,3,"Elias, Mr. Tannous",Masculino,15,1,1,7.2292,,Cherbourg
+354,0,3,"Arnold-Franchi, Mr. Josef",Masculino,25,1,0,17.8,,Southhampton
+355,0,3,"Yousif, Mr. Wazli",Masculino,,0,0,7.225,,Cherbourg
+356,0,3,"Vanden Steen, Mr. Leo Peter",Masculino,28,0,0,9.5,,Southhampton
+357,1,1,"Bowerman, Miss. Elsie Edith",Femenino,22,0,1,55,E33,Southhampton
+358,0,2,"Funk, Miss. Annie Clemmer",Femenino,38,0,0,13,,Southhampton
+359,1,3,"McGovern, Miss. Mary",Femenino,,0,0,7.8792,,Queenstown
+360,1,3,"Mockler, Miss. Helen Mary ""Ellie""",Femenino,,0,0,7.8792,,Queenstown
+361,0,3,"Skoog, Mr. Wilhelm",Masculino,40,1,4,27.9,,Southhampton
+362,0,2,"del Carlo, Mr. Sebastiano",Masculino,29,1,0,27.7208,,Cherbourg
+363,0,3,"Barbara, Mrs. (Catherine David)",Femenino,45,0,1,14.4542,,Cherbourg
+364,0,3,"Asim, Mr. Adola",Masculino,35,0,0,7.05,,Southhampton
+365,0,3,"O'Brien, Mr. Thomas",Masculino,,1,0,15.5,,Queenstown
+366,0,3,"Adahl, Mr. Mauritz Nils Martin",Masculino,30,0,0,7.25,,Southhampton
+367,1,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",Femenino,60,1,0,75.25,D37,Cherbourg
+368,1,3,"Moussa, Mrs. (Mantoura Boulos)",Femenino,,0,0,7.2292,,Cherbourg
+369,1,3,"Jermyn, Miss. Annie",Femenino,,0,0,7.75,,Queenstown
+370,1,1,"Aubart, Mme. Leontine Pauline",Femenino,24,0,0,69.3,B35,Cherbourg
+371,1,1,"Harder, Mr. George Achilles",Masculino,25,1,0,55.4417,E50,Cherbourg
+372,0,3,"Wiklund, Mr. Jakob Alfred",Masculino,18,1,0,6.4958,,Southhampton
+373,0,3,"Beavan, Mr. William Thomas",Masculino,19,0,0,8.05,,Southhampton
+374,0,1,"Ringhini, Mr. Sante",Masculino,22,0,0,135.6333,,Cherbourg
+375,0,3,"Palsson, Miss. Stina Viola",Femenino,3,3,1,21.075,,Southhampton
+376,1,1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",Femenino,,1,0,82.1708,,Cherbourg
+377,1,3,"Landergren, Miss. Aurora Adelia",Femenino,22,0,0,7.25,,Southhampton
+378,0,1,"Widener, Mr. Harry Elkins",Masculino,27,0,2,211.5,C82,Cherbourg
+379,0,3,"Betros, Mr. Tannous",Masculino,20,0,0,4.0125,,Cherbourg
+380,0,3,"Gustafsson, Mr. Karl Gideon",Masculino,19,0,0,7.775,,Southhampton
+381,1,1,"Bidois, Miss. Rosalie",Femenino,42,0,0,227.525,,Cherbourg
+382,1,3,"Nakid, Miss. Maria (""Mary"")",Femenino,1,0,2,15.7417,,Cherbourg
+383,0,3,"Tikkanen, Mr. Juho",Masculino,32,0,0,7.925,,Southhampton
+384,1,1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",Femenino,35,1,0,52,,Southhampton
+385,0,3,"Plotcharsky, Mr. Vasil",Masculino,,0,0,7.8958,,Southhampton
+386,0,2,"Davies, Mr. Charles Henry",Masculino,18,0,0,73.5,,Southhampton
+387,0,3,"Goodwin, Master. Sidney Leonard",Masculino,1,5,2,46.9,,Southhampton
+388,1,2,"Buss, Miss. Kate",Femenino,36,0,0,13,,Southhampton
+389,0,3,"Sadlier, Mr. Matthew",Masculino,,0,0,7.7292,,Queenstown
+390,1,2,"Lehmann, Miss. Bertha",Femenino,17,0,0,12,,Cherbourg
+391,1,1,"Carter, Mr. William Ernest",Masculino,36,1,2,120,B96 B98,Southhampton
+392,1,3,"Jansson, Mr. Carl Olof",Masculino,21,0,0,7.7958,,Southhampton
+393,0,3,"Gustafsson, Mr. Johan Birger",Masculino,28,2,0,7.925,,Southhampton
+394,1,1,"Newell, Miss. Marjorie",Femenino,23,1,0,113.275,D36,Cherbourg
+395,1,3,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",Femenino,24,0,2,16.7,G6,Southhampton
+396,0,3,"Johansson, Mr. Erik",Masculino,22,0,0,7.7958,,Southhampton
+397,0,3,"Olsson, Miss. Elina",Femenino,31,0,0,7.8542,,Southhampton
+398,0,2,"McKane, Mr. Peter David",Masculino,46,0,0,26,,Southhampton
+399,0,2,"Pain, Dr. Alfred",Masculino,23,0,0,10.5,,Southhampton
+400,1,2,"Trout, Mrs. William H (Jessie L)",Femenino,28,0,0,12.65,,Southhampton
+401,1,3,"Niskanen, Mr. Juha",Masculino,39,0,0,7.925,,Southhampton
+402,0,3,"Adams, Mr. John",Masculino,26,0,0,8.05,,Southhampton
+403,0,3,"Jussila, Miss. Mari Aina",Femenino,21,1,0,9.825,,Southhampton
+404,0,3,"Hakkarainen, Mr. Pekka Pietari",Masculino,28,1,0,15.85,,Southhampton
+405,0,3,"Oreskovic, Miss. Marija",Femenino,20,0,0,8.6625,,Southhampton
+406,0,2,"Gale, Mr. Shadrach",Masculino,34,1,0,21,,Southhampton
+407,0,3,"Widegren, Mr. Carl/Charles Peter",Masculino,51,0,0,7.75,,Southhampton
+408,1,2,"Richards, Master. William Rowe",Masculino,3,1,1,18.75,,Southhampton
+409,0,3,"Birkeland, Mr. Hans Martin Monsen",Masculino,21,0,0,7.775,,Southhampton
+410,0,3,"Lefebre, Miss. Ida",Femenino,,3,1,25.4667,,Southhampton
+411,0,3,"Sdycoff, Mr. Todor",Masculino,,0,0,7.8958,,Southhampton
+412,0,3,"Hart, Mr. Henry",Masculino,,0,0,6.8583,,Queenstown
+413,1,1,"Minahan, Miss. Daisy E",Femenino,33,1,0,90,C78,Queenstown
+414,0,2,"Cunningham, Mr. Alfred Fleming",Masculino,,0,0,0,,Southhampton
+415,1,3,"Sundman, Mr. Johan Julian",Masculino,44,0,0,7.925,,Southhampton
+416,0,3,"Meek, Mrs. Thomas (Annie Louise Rowley)",Femenino,,0,0,8.05,,Southhampton
+417,1,2,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",Femenino,34,1,1,32.5,,Southhampton
+418,1,2,"Silven, Miss. Lyyli Karoliina",Femenino,18,0,2,13,,Southhampton
+419,0,2,"Matthews, Mr. William John",Masculino,30,0,0,13,,Southhampton
+420,0,3,"Van Impe, Miss. Catharina",Femenino,10,0,2,24.15,,Southhampton
+421,0,3,"Gheorgheff, Mr. Stanio",Masculino,,0,0,7.8958,,Cherbourg
+422,0,3,"Charters, Mr. David",Masculino,21,0,0,7.7333,,Queenstown
+423,0,3,"Zimmerman, Mr. Leo",Masculino,29,0,0,7.875,,Southhampton
+424,0,3,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",Femenino,28,1,1,14.4,,Southhampton
+425,0,3,"Rosblom, Mr. Viktor Richard",Masculino,18,1,1,20.2125,,Southhampton
+426,0,3,"Wiseman, Mr. Phillippe",Masculino,,0,0,7.25,,Southhampton
+427,1,2,"Clarke, Mrs. Charles V (Ada Maria Winfield)",Femenino,28,1,0,26,,Southhampton
+428,1,2,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",Femenino,19,0,0,26,,Southhampton
+429,0,3,"Flynn, Mr. James",Masculino,,0,0,7.75,,Queenstown
+430,1,3,"Pickard, Mr. Berk (Berk Trembisky)",Masculino,32,0,0,8.05,E10,Southhampton
+431,1,1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",Masculino,28,0,0,26.55,C52,Southhampton
+432,1,3,"Thorneycroft, Mrs. Percival (Florence Kate White)",Femenino,,1,0,16.1,,Southhampton
+433,1,2,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",Femenino,42,1,0,26,,Southhampton
+434,0,3,"Kallio, Mr. Nikolai Erland",Masculino,17,0,0,7.125,,Southhampton
+435,0,1,"Silvey, Mr. William Baird",Masculino,50,1,0,55.9,E44,Southhampton
+436,1,1,"Carter, Miss. Lucile Polk",Femenino,14,1,2,120,B96 B98,Southhampton
+437,0,3,"Ford, Miss. Doolina Margaret ""Daisy""",Femenino,21,2,2,34.375,,Southhampton
+438,1,2,"Richards, Mrs. Sidney (Emily Hocking)",Femenino,24,2,3,18.75,,Southhampton
+439,0,1,"Fortune, Mr. Mark",Masculino,64,1,4,263,C23 C25 C27,Southhampton
+440,0,2,"Kvillner, Mr. Johan Henrik Johannesson",Masculino,31,0,0,10.5,,Southhampton
+441,1,2,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",Femenino,45,1,1,26.25,,Southhampton
+442,0,3,"Hampe, Mr. Leon",Masculino,20,0,0,9.5,,Southhampton
+443,0,3,"Petterson, Mr. Johan Emil",Masculino,25,1,0,7.775,,Southhampton
+444,1,2,"Reynaldo, Ms. Encarnacion",Femenino,28,0,0,13,,Southhampton
+445,1,3,"Johannesen-Bratthammer, Mr. Bernt",Masculino,,0,0,8.1125,,Southhampton
+446,1,1,"Dodge, Master. Washington",Masculino,4,0,2,81.8583,A34,Southhampton
+447,1,2,"Mellinger, Miss. Madeleine Violet",Femenino,13,0,1,19.5,,Southhampton
+448,1,1,"Seward, Mr. Frederic Kimber",Masculino,34,0,0,26.55,,Southhampton
+449,1,3,"Baclini, Miss. Marie Catherine",Femenino,5,2,1,19.2583,,Cherbourg
+450,1,1,"Peuchen, Major. Arthur Godfrey",Masculino,52,0,0,30.5,C104,Southhampton
+451,0,2,"West, Mr. Edwy Arthur",Masculino,36,1,2,27.75,,Southhampton
+452,0,3,"Hagland, Mr. Ingvald Olai Olsen",Masculino,,1,0,19.9667,,Southhampton
+453,0,1,"Foreman, Mr. Benjamin Laventall",Masculino,30,0,0,27.75,C111,Cherbourg
+454,1,1,"Goldenberg, Mr. Samuel L",Masculino,49,1,0,89.1042,C92,Cherbourg
+455,0,3,"Peduzzi, Mr. Joseph",Masculino,,0,0,8.05,,Southhampton
+456,1,3,"Jalsevac, Mr. Ivan",Masculino,29,0,0,7.8958,,Cherbourg
+457,0,1,"Millet, Mr. Francis Davis",Masculino,65,0,0,26.55,E38,Southhampton
+458,1,1,"Kenyon, Mrs. Frederick R (Marion)",Femenino,,1,0,51.8625,D21,Southhampton
+459,1,2,"Toomey, Miss. Ellen",Femenino,50,0,0,10.5,,Southhampton
+460,0,3,"O'Connor, Mr. Maurice",Masculino,,0,0,7.75,,Queenstown
+461,1,1,"Anderson, Mr. Harry",Masculino,48,0,0,26.55,E12,Southhampton
+462,0,3,"Morley, Mr. William",Masculino,34,0,0,8.05,,Southhampton
+463,0,1,"Gee, Mr. Arthur H",Masculino,47,0,0,38.5,E63,Southhampton
+464,0,2,"Milling, Mr. Jacob Christian",Masculino,48,0,0,13,,Southhampton
+465,0,3,"Maisner, Mr. Simon",Masculino,,0,0,8.05,,Southhampton
+466,0,3,"Goncalves, Mr. Manuel Estanslas",Masculino,38,0,0,7.05,,Southhampton
+467,0,2,"Campbell, Mr. William",Masculino,,0,0,0,,Southhampton
+468,0,1,"Smart, Mr. John Montgomery",Masculino,56,0,0,26.55,,Southhampton
+469,0,3,"Scanlan, Mr. James",Masculino,,0,0,7.725,,Queenstown
+470,1,3,"Baclini, Miss. Helene Barbara",Femenino,0.75,2,1,19.2583,,Cherbourg
+471,0,3,"Keefe, Mr. Arthur",Masculino,,0,0,7.25,,Southhampton
+472,0,3,"Cacic, Mr. Luka",Masculino,38,0,0,8.6625,,Southhampton
+473,1,2,"West, Mrs. Edwy Arthur (Ada Mary Worth)",Femenino,33,1,2,27.75,,Southhampton
+474,1,2,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",Femenino,23,0,0,13.7917,D,Cherbourg
+475,0,3,"Strandberg, Miss. Ida Sofia",Femenino,22,0,0,9.8375,,Southhampton
+476,0,1,"Clifford, Mr. George Quincy",Masculino,,0,0,52,A14,Southhampton
+477,0,2,"Renouf, Mr. Peter Henry",Masculino,34,1,0,21,,Southhampton
+478,0,3,"Braund, Mr. Lewis Richard",Masculino,29,1,0,7.0458,,Southhampton
+479,0,3,"Karlsson, Mr. Nils August",Masculino,22,0,0,7.5208,,Southhampton
+480,1,3,"Hirvonen, Miss. Hildur E",Femenino,2,0,1,12.2875,,Southhampton
+481,0,3,"Goodwin, Master. Harold Victor",Masculino,9,5,2,46.9,,Southhampton
+482,0,2,"Frost, Mr. Anthony Wood ""Archie""",Masculino,,0,0,0,,Southhampton
+483,0,3,"Rouse, Mr. Richard Henry",Masculino,50,0,0,8.05,,Southhampton
+484,1,3,"Turkula, Mrs. (Hedwig)",Femenino,63,0,0,9.5875,,Southhampton
+485,1,1,"Bishop, Mr. Dickinson H",Masculino,25,1,0,91.0792,B49,Cherbourg
+486,0,3,"Lefebre, Miss. Jeannie",Femenino,,3,1,25.4667,,Southhampton
+487,1,1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",Femenino,35,1,0,90,C93,Southhampton
+488,0,1,"Kent, Mr. Edward Austin",Masculino,58,0,0,29.7,B37,Cherbourg
+489,0,3,"Somerton, Mr. Francis William",Masculino,30,0,0,8.05,,Southhampton
+490,1,3,"Coutts, Master. Eden Leslie ""Neville""",Masculino,9,1,1,15.9,,Southhampton
+491,0,3,"Hagland, Mr. Konrad Mathias Reiersen",Masculino,,1,0,19.9667,,Southhampton
+492,0,3,"Windelov, Mr. Einar",Masculino,21,0,0,7.25,,Southhampton
+493,0,1,"Molson, Mr. Harry Markland",Masculino,55,0,0,30.5,C30,Southhampton
+494,0,1,"Artagaveytia, Mr. Ramon",Masculino,71,0,0,49.5042,,Cherbourg
+495,0,3,"Stanley, Mr. Edward Roland",Masculino,21,0,0,8.05,,Southhampton
+496,0,3,"Yousseff, Mr. Gerious",Masculino,,0,0,14.4583,,Cherbourg
+497,1,1,"Eustis, Miss. Elizabeth Mussey",Femenino,54,1,0,78.2667,D20,Cherbourg
+498,0,3,"Shellard, Mr. Frederick William",Masculino,,0,0,15.1,,Southhampton
+499,0,1,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",Femenino,25,1,2,151.55,C22 C26,Southhampton
+500,0,3,"Svensson, Mr. Olof",Masculino,24,0,0,7.7958,,Southhampton
+501,0,3,"Calic, Mr. Petar",Masculino,17,0,0,8.6625,,Southhampton
+502,0,3,"Canavan, Miss. Mary",Femenino,21,0,0,7.75,,Queenstown
+503,0,3,"O'Sullivan, Miss. Bridget Mary",Femenino,,0,0,7.6292,,Queenstown
+504,0,3,"Laitinen, Miss. Kristina Sofia",Femenino,37,0,0,9.5875,,Southhampton
+505,1,1,"Maioni, Miss. Roberta",Femenino,16,0,0,86.5,B79,Southhampton
+506,0,1,"Penasco y Castellana, Mr. Victor de Satode",Masculino,18,1,0,108.9,C65,Cherbourg
+507,1,2,"Quick, Mrs. Frederick Charles (Jane Richards)",Femenino,33,0,2,26,,Southhampton
+508,1,1,"Bradley, Mr. George (""George Arthur Brayton"")",Masculino,,0,0,26.55,,Southhampton
+509,0,3,"Olsen, Mr. Henry Margido",Masculino,28,0,0,22.525,,Southhampton
+510,1,3,"Lang, Mr. Fang",Masculino,26,0,0,56.4958,,Southhampton
+511,1,3,"Daly, Mr. Eugene Patrick",Masculino,29,0,0,7.75,,Queenstown
+512,0,3,"Webber, Mr. James",Masculino,,0,0,8.05,,Southhampton
+513,1,1,"McGough, Mr. James Robert",Masculino,36,0,0,26.2875,E25,Southhampton
+514,1,1,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",Femenino,54,1,0,59.4,,Cherbourg
+515,0,3,"Coleff, Mr. Satio",Masculino,24,0,0,7.4958,,Southhampton
+516,0,1,"Walker, Mr. William Anderson",Masculino,47,0,0,34.0208,D46,Southhampton
+517,1,2,"Lemore, Mrs. (Amelia Milley)",Femenino,34,0,0,10.5,F33,Southhampton
+518,0,3,"Ryan, Mr. Patrick",Masculino,,0,0,24.15,,Queenstown
+519,1,2,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",Femenino,36,1,0,26,,Southhampton
+520,0,3,"Pavlovic, Mr. Stefo",Masculino,32,0,0,7.8958,,Southhampton
+521,1,1,"Perreault, Miss. Anne",Femenino,30,0,0,93.5,B73,Southhampton
+522,0,3,"Vovk, Mr. Janko",Masculino,22,0,0,7.8958,,Southhampton
+523,0,3,"Lahoud, Mr. Sarkis",Masculino,,0,0,7.225,,Cherbourg
+524,1,1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",Femenino,44,0,1,57.9792,B18,Cherbourg
+525,0,3,"Kassem, Mr. Fared",Masculino,,0,0,7.2292,,Cherbourg
+526,0,3,"Farrell, Mr. James",Masculino,40.5,0,0,7.75,,Queenstown
+527,1,2,"Ridsdale, Miss. Lucy",Femenino,50,0,0,10.5,,Southhampton
+528,0,1,"Farthing, Mr. John",Masculino,,0,0,221.7792,C95,Southhampton
+529,0,3,"Salonen, Mr. Johan Werner",Masculino,39,0,0,7.925,,Southhampton
+530,0,2,"Hocking, Mr. Richard George",Masculino,23,2,1,11.5,,Southhampton
+531,1,2,"Quick, Miss. Phyllis May",Femenino,2,1,1,26,,Southhampton
+532,0,3,"Toufik, Mr. Nakli",Masculino,,0,0,7.2292,,Cherbourg
+533,0,3,"Elias, Mr. Joseph Jr",Masculino,17,1,1,7.2292,,Cherbourg
+534,1,3,"Peter, Mrs. Catherine (Catherine Rizk)",Femenino,,0,2,22.3583,,Cherbourg
+535,0,3,"Cacic, Miss. Marija",Femenino,30,0,0,8.6625,,Southhampton
+536,1,2,"Hart, Miss. Eva Miriam",Femenino,7,0,2,26.25,,Southhampton
+537,0,1,"Butt, Major. Archibald Willingham",Masculino,45,0,0,26.55,B38,Southhampton
+538,1,1,"LeRoy, Miss. Bertha",Femenino,30,0,0,106.425,,Cherbourg
+539,0,3,"Risien, Mr. Samuel Beard",Masculino,,0,0,14.5,,Southhampton
+540,1,1,"Frolicher, Miss. Hedwig Margaritha",Femenino,22,0,2,49.5,B39,Cherbourg
+541,1,1,"Crosby, Miss. Harriet R",Femenino,36,0,2,71,B22,Southhampton
+542,0,3,"Andersson, Miss. Ingeborg Constanzia",Femenino,9,4,2,31.275,,Southhampton
+543,0,3,"Andersson, Miss. Sigrid Elisabeth",Femenino,11,4,2,31.275,,Southhampton
+544,1,2,"Beane, Mr. Edward",Masculino,32,1,0,26,,Southhampton
+545,0,1,"Douglas, Mr. Walter Donald",Masculino,50,1,0,106.425,C86,Cherbourg
+546,0,1,"Nicholson, Mr. Arthur Ernest",Masculino,64,0,0,26,,Southhampton
+547,1,2,"Beane, Mrs. Edward (Ethel Clarke)",Femenino,19,1,0,26,,Southhampton
+548,1,2,"Padro y Manent, Mr. Julian",Masculino,,0,0,13.8625,,Cherbourg
+549,0,3,"Goldsmith, Mr. Frank John",Masculino,33,1,1,20.525,,Southhampton
+550,1,2,"Davies, Master. John Morgan Jr",Masculino,8,1,1,36.75,,Southhampton
+551,1,1,"Thayer, Mr. John Borland Jr",Masculino,17,0,2,110.8833,C70,Cherbourg
+552,0,2,"Sharp, Mr. Percival James R",Masculino,27,0,0,26,,Southhampton
+553,0,3,"O'Brien, Mr. Timothy",Masculino,,0,0,7.8292,,Queenstown
+554,1,3,"Leeni, Mr. Fahim (""Philip Zenni"")",Masculino,22,0,0,7.225,,Cherbourg
+555,1,3,"Ohman, Miss. Velin",Femenino,22,0,0,7.775,,Southhampton
+556,0,1,"Wright, Mr. George",Masculino,62,0,0,26.55,,Southhampton
+557,1,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",Femenino,48,1,0,39.6,A16,Cherbourg
+558,0,1,"Robbins, Mr. Victor",Masculino,,0,0,227.525,,Cherbourg
+559,1,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",Femenino,39,1,1,79.65,E67,Southhampton
+560,1,3,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",Femenino,36,1,0,17.4,,Southhampton
+561,0,3,"Morrow, Mr. Thomas Rowan",Masculino,,0,0,7.75,,Queenstown
+562,0,3,"Sivic, Mr. Husein",Masculino,40,0,0,7.8958,,Southhampton
+563,0,2,"Norman, Mr. Robert Douglas",Masculino,28,0,0,13.5,,Southhampton
+564,0,3,"Simmons, Mr. John",Masculino,,0,0,8.05,,Southhampton
+565,0,3,"Meanwell, Miss. (Marion Ogden)",Femenino,,0,0,8.05,,Southhampton
+566,0,3,"Davies, Mr. Alfred J",Masculino,24,2,0,24.15,,Southhampton
+567,0,3,"Stoytcheff, Mr. Ilia",Masculino,19,0,0,7.8958,,Southhampton
+568,0,3,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",Femenino,29,0,4,21.075,,Southhampton
+569,0,3,"Doharr, Mr. Tannous",Masculino,,0,0,7.2292,,Cherbourg
+570,1,3,"Jonsson, Mr. Carl",Masculino,32,0,0,7.8542,,Southhampton
+571,1,2,"Harris, Mr. George",Masculino,62,0,0,10.5,,Southhampton
+572,1,1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",Femenino,53,2,0,51.4792,C101,Southhampton
+573,1,1,"Flynn, Mr. John Irwin (""Irving"")",Masculino,36,0,0,26.3875,E25,Southhampton
+574,1,3,"Kelly, Miss. Mary",Femenino,,0,0,7.75,,Queenstown
+575,0,3,"Rush, Mr. Alfred George John",Masculino,16,0,0,8.05,,Southhampton
+576,0,3,"Patchett, Mr. George",Masculino,19,0,0,14.5,,Southhampton
+577,1,2,"Garside, Miss. Ethel",Femenino,34,0,0,13,,Southhampton
+578,1,1,"Silvey, Mrs. William Baird (Alice Munger)",Femenino,39,1,0,55.9,E44,Southhampton
+579,0,3,"Caram, Mrs. Joseph (Maria Elias)",Femenino,,1,0,14.4583,,Cherbourg
+580,1,3,"Jussila, Mr. Eiriik",Masculino,32,0,0,7.925,,Southhampton
+581,1,2,"Christy, Miss. Julie Rachel",Femenino,25,1,1,30,,Southhampton
+582,1,1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",Femenino,39,1,1,110.8833,C68,Cherbourg
+583,0,2,"Downton, Mr. William James",Masculino,54,0,0,26,,Southhampton
+584,0,1,"Ross, Mr. John Hugo",Masculino,36,0,0,40.125,A10,Cherbourg
+585,0,3,"Paulner, Mr. Uscher",Masculino,,0,0,8.7125,,Cherbourg
+586,1,1,"Taussig, Miss. Ruth",Femenino,18,0,2,79.65,E68,Southhampton
+587,0,2,"Jarvis, Mr. John Denzil",Masculino,47,0,0,15,,Southhampton
+588,1,1,"Frolicher-Stehli, Mr. Maxmillian",Masculino,60,1,1,79.2,B41,Cherbourg
+589,0,3,"Gilinski, Mr. Eliezer",Masculino,22,0,0,8.05,,Southhampton
+590,0,3,"Murdlin, Mr. Joseph",Masculino,,0,0,8.05,,Southhampton
+591,0,3,"Rintamaki, Mr. Matti",Masculino,35,0,0,7.125,,Southhampton
+592,1,1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",Femenino,52,1,0,78.2667,D20,Cherbourg
+593,0,3,"Elsbury, Mr. William James",Masculino,47,0,0,7.25,,Southhampton
+594,0,3,"Bourke, Miss. Mary",Femenino,,0,2,7.75,,Queenstown
+595,0,2,"Chapman, Mr. John Henry",Masculino,37,1,0,26,,Southhampton
+596,0,3,"Van Impe, Mr. Jean Baptiste",Masculino,36,1,1,24.15,,Southhampton
+597,1,2,"Leitch, Miss. Jessie Wills",Femenino,,0,0,33,,Southhampton
+598,0,3,"Johnson, Mr. Alfred",Masculino,49,0,0,0,,Southhampton
+599,0,3,"Boulos, Mr. Hanna",Masculino,,0,0,7.225,,Cherbourg
+600,1,1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",Masculino,49,1,0,56.9292,A20,Cherbourg
+601,1,2,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",Femenino,24,2,1,27,,Southhampton
+602,0,3,"Slabenoff, Mr. Petco",Masculino,,0,0,7.8958,,Southhampton
+603,0,1,"Harrington, Mr. Charles H",Masculino,,0,0,42.4,,Southhampton
+604,0,3,"Torber, Mr. Ernst William",Masculino,44,0,0,8.05,,Southhampton
+605,1,1,"Homer, Mr. Harry (""Mr E Haven"")",Masculino,35,0,0,26.55,,Cherbourg
+606,0,3,"Lindell, Mr. Edvard Bengtsson",Masculino,36,1,0,15.55,,Southhampton
+607,0,3,"Karaic, Mr. Milan",Masculino,30,0,0,7.8958,,Southhampton
+608,1,1,"Daniel, Mr. Robert Williams",Masculino,27,0,0,30.5,,Southhampton
+609,1,2,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",Femenino,22,1,2,41.5792,,Cherbourg
+610,1,1,"Shutes, Miss. Elizabeth W",Femenino,40,0,0,153.4625,C125,Southhampton
+611,0,3,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",Femenino,39,1,5,31.275,,Southhampton
+612,0,3,"Jardin, Mr. Jose Neto",Masculino,,0,0,7.05,,Southhampton
+613,1,3,"Murphy, Miss. Margaret Jane",Femenino,,1,0,15.5,,Queenstown
+614,0,3,"Horgan, Mr. John",Masculino,,0,0,7.75,,Queenstown
+615,0,3,"Brocklebank, Mr. William Alfred",Masculino,35,0,0,8.05,,Southhampton
+616,1,2,"Herman, Miss. Alice",Femenino,24,1,2,65,,Southhampton
+617,0,3,"Danbom, Mr. Ernst Gilbert",Masculino,34,1,1,14.4,,Southhampton
+618,0,3,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",Femenino,26,1,0,16.1,,Southhampton
+619,1,2,"Becker, Miss. Marion Louise",Femenino,4,2,1,39,F4,Southhampton
+620,0,2,"Gavey, Mr. Lawrence",Masculino,26,0,0,10.5,,Southhampton
+621,0,3,"Yasbeck, Mr. Antoni",Masculino,27,1,0,14.4542,,Cherbourg
+622,1,1,"Kimball, Mr. Edwin Nelson Jr",Masculino,42,1,0,52.5542,D19,Southhampton
+623,1,3,"Nakid, Mr. Sahid",Masculino,20,1,1,15.7417,,Cherbourg
+624,0,3,"Hansen, Mr. Henry Damsgaard",Masculino,21,0,0,7.8542,,Southhampton
+625,0,3,"Bowen, Mr. David John ""Dai""",Masculino,21,0,0,16.1,,Southhampton
+626,0,1,"Sutton, Mr. Frederick",Masculino,61,0,0,32.3208,D50,Southhampton
+627,0,2,"Kirkland, Rev. Charles Leonard",Masculino,57,0,0,12.35,,Queenstown
+628,1,1,"Longley, Miss. Gretchen Fiske",Femenino,21,0,0,77.9583,D9,Southhampton
+629,0,3,"Bostandyeff, Mr. Guentcho",Masculino,26,0,0,7.8958,,Southhampton
+630,0,3,"O'Connell, Mr. Patrick D",Masculino,,0,0,7.7333,,Queenstown
+631,1,1,"Barkworth, Mr. Algernon Henry Wilson",Masculino,80,0,0,30,A23,Southhampton
+632,0,3,"Lundahl, Mr. Johan Svensson",Masculino,51,0,0,7.0542,,Southhampton
+633,1,1,"Stahelin-Maeglin, Dr. Max",Masculino,32,0,0,30.5,B50,Cherbourg
+634,0,1,"Parr, Mr. William Henry Marsh",Masculino,,0,0,0,,Southhampton
+635,0,3,"Skoog, Miss. Mabel",Femenino,9,3,2,27.9,,Southhampton
+636,1,2,"Davis, Miss. Mary",Femenino,28,0,0,13,,Southhampton
+637,0,3,"Leinonen, Mr. Antti Gustaf",Masculino,32,0,0,7.925,,Southhampton
+638,0,2,"Collyer, Mr. Harvey",Masculino,31,1,1,26.25,,Southhampton
+639,0,3,"Panula, Mrs. Juha (Maria Emilia Ojala)",Femenino,41,0,5,39.6875,,Southhampton
+640,0,3,"Thorneycroft, Mr. Percival",Masculino,,1,0,16.1,,Southhampton
+641,0,3,"Jensen, Mr. Hans Peder",Masculino,20,0,0,7.8542,,Southhampton
+642,1,1,"Sagesser, Mlle. Emma",Femenino,24,0,0,69.3,B35,Cherbourg
+643,0,3,"Skoog, Miss. Margit Elizabeth",Femenino,2,3,2,27.9,,Southhampton
+644,1,3,"Foo, Mr. Choong",Masculino,,0,0,56.4958,,Southhampton
+645,1,3,"Baclini, Miss. Eugenie",Femenino,0.75,2,1,19.2583,,Cherbourg
+646,1,1,"Harper, Mr. Henry Sleeper",Masculino,48,1,0,76.7292,D33,Cherbourg
+647,0,3,"Cor, Mr. Liudevit",Masculino,19,0,0,7.8958,,Southhampton
+648,1,1,"Simonius-Blumer, Col. Oberst Alfons",Masculino,56,0,0,35.5,A26,Cherbourg
+649,0,3,"Willey, Mr. Edward",Masculino,,0,0,7.55,,Southhampton
+650,1,3,"Stanley, Miss. Amy Zillah Elsie",Femenino,23,0,0,7.55,,Southhampton
+651,0,3,"Mitkoff, Mr. Mito",Masculino,,0,0,7.8958,,Southhampton
+652,1,2,"Doling, Miss. Elsie",Femenino,18,0,1,23,,Southhampton
+653,0,3,"Kalvik, Mr. Johannes Halvorsen",Masculino,21,0,0,8.4333,,Southhampton
+654,1,3,"O'Leary, Miss. Hanora ""Norah""",Femenino,,0,0,7.8292,,Queenstown
+655,0,3,"Hegarty, Miss. Hanora ""Nora""",Femenino,18,0,0,6.75,,Queenstown
+656,0,2,"Hickman, Mr. Leonard Mark",Masculino,24,2,0,73.5,,Southhampton
+657,0,3,"Radeff, Mr. Alexander",Masculino,,0,0,7.8958,,Southhampton
+658,0,3,"Bourke, Mrs. John (Catherine)",Femenino,32,1,1,15.5,,Queenstown
+659,0,2,"Eitemiller, Mr. George Floyd",Masculino,23,0,0,13,,Southhampton
+660,0,1,"Newell, Mr. Arthur Webster",Masculino,58,0,2,113.275,D48,Cherbourg
+661,1,1,"Frauenthal, Dr. Henry William",Masculino,50,2,0,133.65,,Southhampton
+662,0,3,"Badt, Mr. Mohamed",Masculino,40,0,0,7.225,,Cherbourg
+663,0,1,"Colley, Mr. Edward Pomeroy",Masculino,47,0,0,25.5875,E58,Southhampton
+664,0,3,"Coleff, Mr. Peju",Masculino,36,0,0,7.4958,,Southhampton
+665,1,3,"Lindqvist, Mr. Eino William",Masculino,20,1,0,7.925,,Southhampton
+666,0,2,"Hickman, Mr. Lewis",Masculino,32,2,0,73.5,,Southhampton
+667,0,2,"Butler, Mr. Reginald Fenton",Masculino,25,0,0,13,,Southhampton
+668,0,3,"Rommetvedt, Mr. Knud Paust",Masculino,,0,0,7.775,,Southhampton
+669,0,3,"Cook, Mr. Jacob",Masculino,43,0,0,8.05,,Southhampton
+670,1,1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",Femenino,,1,0,52,C126,Southhampton
+671,1,2,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",Femenino,40,1,1,39,,Southhampton
+672,0,1,"Davidson, Mr. Thornton",Masculino,31,1,0,52,B71,Southhampton
+673,0,2,"Mitchell, Mr. Henry Michael",Masculino,70,0,0,10.5,,Southhampton
+674,1,2,"Wilhelms, Mr. Charles",Masculino,31,0,0,13,,Southhampton
+675,0,2,"Watson, Mr. Ennis Hastings",Masculino,,0,0,0,,Southhampton
+676,0,3,"Edvardsson, Mr. Gustaf Hjalmar",Masculino,18,0,0,7.775,,Southhampton
+677,0,3,"Sawyer, Mr. Frederick Charles",Masculino,24.5,0,0,8.05,,Southhampton
+678,1,3,"Turja, Miss. Anna Sofia",Femenino,18,0,0,9.8417,,Southhampton
+679,0,3,"Goodwin, Mrs. Frederick (Augusta Tyler)",Femenino,43,1,6,46.9,,Southhampton
+680,1,1,"Cardeza, Mr. Thomas Drake Martinez",Masculino,36,0,1,512.3292,B51 B53 B55,Cherbourg
+681,0,3,"Peters, Miss. Katie",Femenino,,0,0,8.1375,,Queenstown
+682,1,1,"Hassab, Mr. Hammad",Masculino,27,0,0,76.7292,D49,Cherbourg
+683,0,3,"Olsvigen, Mr. Thor Anderson",Masculino,20,0,0,9.225,,Southhampton
+684,0,3,"Goodwin, Mr. Charles Edward",Masculino,14,5,2,46.9,,Southhampton
+685,0,2,"Brown, Mr. Thomas William Solomon",Masculino,60,1,1,39,,Southhampton
+686,0,2,"Laroche, Mr. Joseph Philippe Lemercier",Masculino,25,1,2,41.5792,,Cherbourg
+687,0,3,"Panula, Mr. Jaako Arnold",Masculino,14,4,1,39.6875,,Southhampton
+688,0,3,"Dakic, Mr. Branko",Masculino,19,0,0,10.1708,,Southhampton
+689,0,3,"Fischer, Mr. Eberhard Thelander",Masculino,18,0,0,7.7958,,Southhampton
+690,1,1,"Madill, Miss. Georgette Alexandra",Femenino,15,0,1,211.3375,B5,Southhampton
+691,1,1,"Dick, Mr. Albert Adrian",Masculino,31,1,0,57,B20,Southhampton
+692,1,3,"Karun, Miss. Manca",Femenino,4,0,1,13.4167,,Cherbourg
+693,1,3,"Lam, Mr. Ali",Masculino,,0,0,56.4958,,Southhampton
+694,0,3,"Saad, Mr. Khalil",Masculino,25,0,0,7.225,,Cherbourg
+695,0,1,"Weir, Col. John",Masculino,60,0,0,26.55,,Southhampton
+696,0,2,"Chapman, Mr. Charles Henry",Masculino,52,0,0,13.5,,Southhampton
+697,0,3,"Kelly, Mr. James",Masculino,44,0,0,8.05,,Southhampton
+698,1,3,"Mullens, Miss. Katherine ""Katie""",Femenino,,0,0,7.7333,,Queenstown
+699,0,1,"Thayer, Mr. John Borland",Masculino,49,1,1,110.8833,C68,Cherbourg
+700,0,3,"Humblen, Mr. Adolf Mathias Nicolai Olsen",Masculino,42,0,0,7.65,F G63,Southhampton
+701,1,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",Femenino,18,1,0,227.525,C62 C64,Cherbourg
+702,1,1,"Silverthorne, Mr. Spencer Victor",Masculino,35,0,0,26.2875,E24,Southhampton
+703,0,3,"Barbara, Miss. Saiide",Femenino,18,0,1,14.4542,,Cherbourg
+704,0,3,"Gallagher, Mr. Martin",Masculino,25,0,0,7.7417,,Queenstown
+705,0,3,"Hansen, Mr. Henrik Juul",Masculino,26,1,0,7.8542,,Southhampton
+706,0,2,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",Masculino,39,0,0,26,,Southhampton
+707,1,2,"Kelly, Mrs. Florence ""Fannie""",Femenino,45,0,0,13.5,,Southhampton
+708,1,1,"Calderhead, Mr. Edward Pennington",Masculino,42,0,0,26.2875,E24,Southhampton
+709,1,1,"Cleaver, Miss. Alice",Femenino,22,0,0,151.55,,Southhampton
+710,1,3,"Moubarek, Master. Halim Gonios (""William George"")",Masculino,,1,1,15.2458,,Cherbourg
+711,1,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",Femenino,24,0,0,49.5042,C90,Cherbourg
+712,0,1,"Klaber, Mr. Herman",Masculino,,0,0,26.55,C124,Southhampton
+713,1,1,"Taylor, Mr. Elmer Zebley",Masculino,48,1,0,52,C126,Southhampton
+714,0,3,"Larsson, Mr. August Viktor",Masculino,29,0,0,9.4833,,Southhampton
+715,0,2,"Greenberg, Mr. Samuel",Masculino,52,0,0,13,,Southhampton
+716,0,3,"Soholt, Mr. Peter Andreas Lauritz Andersen",Masculino,19,0,0,7.65,F G73,Southhampton
+717,1,1,"Endres, Miss. Caroline Louise",Femenino,38,0,0,227.525,C45,Cherbourg
+718,1,2,"Troutt, Miss. Edwina Celia ""Winnie""",Femenino,27,0,0,10.5,E101,Southhampton
+719,0,3,"McEvoy, Mr. Michael",Masculino,,0,0,15.5,,Queenstown
+720,0,3,"Johnson, Mr. Malkolm Joackim",Masculino,33,0,0,7.775,,Southhampton
+721,1,2,"Harper, Miss. Annie Jessie ""Nina""",Femenino,6,0,1,33,,Southhampton
+722,0,3,"Jensen, Mr. Svend Lauritz",Masculino,17,1,0,7.0542,,Southhampton
+723,0,2,"Gillespie, Mr. William Henry",Masculino,34,0,0,13,,Southhampton
+724,0,2,"Hodges, Mr. Henry Price",Masculino,50,0,0,13,,Southhampton
+725,1,1,"Chambers, Mr. Norman Campbell",Masculino,27,1,0,53.1,E8,Southhampton
+726,0,3,"Oreskovic, Mr. Luka",Masculino,20,0,0,8.6625,,Southhampton
+727,1,2,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",Femenino,30,3,0,21,,Southhampton
+728,1,3,"Mannion, Miss. Margareth",Femenino,,0,0,7.7375,,Queenstown
+729,0,2,"Bryhl, Mr. Kurt Arnold Gottfrid",Masculino,25,1,0,26,,Southhampton
+730,0,3,"Ilmakangas, Miss. Pieta Sofia",Femenino,25,1,0,7.925,,Southhampton
+731,1,1,"Allen, Miss. Elisabeth Walton",Femenino,29,0,0,211.3375,B5,Southhampton
+732,0,3,"Hassan, Mr. Houssein G N",Masculino,11,0,0,18.7875,,Cherbourg
+733,0,2,"Knight, Mr. Robert J",Masculino,,0,0,0,,Southhampton
+734,0,2,"Berriman, Mr. William John",Masculino,23,0,0,13,,Southhampton
+735,0,2,"Troupiansky, Mr. Moses Aaron",Masculino,23,0,0,13,,Southhampton
+736,0,3,"Williams, Mr. Leslie",Masculino,28.5,0,0,16.1,,Southhampton
+737,0,3,"Ford, Mrs. Edward (Margaret Ann Watson)",Femenino,48,1,3,34.375,,Southhampton
+738,1,1,"Lesurer, Mr. Gustave J",Masculino,35,0,0,512.3292,B101,Cherbourg
+739,0,3,"Ivanoff, Mr. Kanio",Masculino,,0,0,7.8958,,Southhampton
+740,0,3,"Nankoff, Mr. Minko",Masculino,,0,0,7.8958,,Southhampton
+741,1,1,"Hawksford, Mr. Walter James",Masculino,,0,0,30,D45,Southhampton
+742,0,1,"Cavendish, Mr. Tyrell William",Masculino,36,1,0,78.85,C46,Southhampton
+743,1,1,"Ryerson, Miss. Susan Parker ""Suzette""",Femenino,21,2,2,262.375,B57 B59 B63 B66,Cherbourg
+744,0,3,"McNamee, Mr. Neal",Masculino,24,1,0,16.1,,Southhampton
+745,1,3,"Stranden, Mr. Juho",Masculino,31,0,0,7.925,,Southhampton
+746,0,1,"Crosby, Capt. Edward Gifford",Masculino,70,1,1,71,B22,Southhampton
+747,0,3,"Abbott, Mr. Rossmore Edward",Masculino,16,1,1,20.25,,Southhampton
+748,1,2,"Sinkkonen, Miss. Anna",Femenino,30,0,0,13,,Southhampton
+749,0,1,"Marvin, Mr. Daniel Warner",Masculino,19,1,0,53.1,D30,Southhampton
+750,0,3,"Connaghton, Mr. Michael",Masculino,31,0,0,7.75,,Queenstown
+751,1,2,"Wells, Miss. Joan",Femenino,4,1,1,23,,Southhampton
+752,1,3,"Moor, Master. Meier",Masculino,6,0,1,12.475,E121,Southhampton
+753,0,3,"Vande Velde, Mr. Johannes Joseph",Masculino,33,0,0,9.5,,Southhampton
+754,0,3,"Jonkoff, Mr. Lalio",Masculino,23,0,0,7.8958,,Southhampton
+755,1,2,"Herman, Mrs. Samuel (Jane Laver)",Femenino,48,1,2,65,,Southhampton
+756,1,2,"Hamalainen, Master. Viljo",Masculino,0.67,1,1,14.5,,Southhampton
+757,0,3,"Carlsson, Mr. August Sigfrid",Masculino,28,0,0,7.7958,,Southhampton
+758,0,2,"Bailey, Mr. Percy Andrew",Masculino,18,0,0,11.5,,Southhampton
+759,0,3,"Theobald, Mr. Thomas Leonard",Masculino,34,0,0,8.05,,Southhampton
+760,1,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",Femenino,33,0,0,86.5,B77,Southhampton
+761,0,3,"Garfirth, Mr. John",Masculino,,0,0,14.5,,Southhampton
+762,0,3,"Nirva, Mr. Iisakki Antino Aijo",Masculino,41,0,0,7.125,,Southhampton
+763,1,3,"Barah, Mr. Hanna Assi",Masculino,20,0,0,7.2292,,Cherbourg
+764,1,1,"Carter, Mrs. William Ernest (Lucile Polk)",Femenino,36,1,2,120,B96 B98,Southhampton
+765,0,3,"Eklund, Mr. Hans Linus",Masculino,16,0,0,7.775,,Southhampton
+766,1,1,"Hogeboom, Mrs. John C (Anna Andrews)",Femenino,51,1,0,77.9583,D11,Southhampton
+767,0,1,"Brewe, Dr. Arthur Jackson",Masculino,,0,0,39.6,,Cherbourg
+768,0,3,"Mangan, Miss. Mary",Femenino,30.5,0,0,7.75,,Queenstown
+769,0,3,"Moran, Mr. Daniel J",Masculino,,1,0,24.15,,Queenstown
+770,0,3,"Gronnestad, Mr. Daniel Danielsen",Masculino,32,0,0,8.3625,,Southhampton
+771,0,3,"Lievens, Mr. Rene Aime",Masculino,24,0,0,9.5,,Southhampton
+772,0,3,"Jensen, Mr. Niels Peder",Masculino,48,0,0,7.8542,,Southhampton
+773,0,2,"Mack, Mrs. (Mary)",Femenino,57,0,0,10.5,E77,Southhampton
+774,0,3,"Elias, Mr. Dibo",Masculino,,0,0,7.225,,Cherbourg
+775,1,2,"Hocking, Mrs. Elizabeth (Eliza Needs)",Femenino,54,1,3,23,,Southhampton
+776,0,3,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",Masculino,18,0,0,7.75,,Southhampton
+777,0,3,"Tobin, Mr. Roger",Masculino,,0,0,7.75,F38,Queenstown
+778,1,3,"Emanuel, Miss. Virginia Ethel",Femenino,5,0,0,12.475,,Southhampton
+779,0,3,"Kilgannon, Mr. Thomas J",Masculino,,0,0,7.7375,,Queenstown
+780,1,1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",Femenino,43,0,1,211.3375,B3,Southhampton
+781,1,3,"Ayoub, Miss. Banoura",Femenino,13,0,0,7.2292,,Cherbourg
+782,1,1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",Femenino,17,1,0,57,B20,Southhampton
+783,0,1,"Long, Mr. Milton Clyde",Masculino,29,0,0,30,D6,Southhampton
+784,0,3,"Johnston, Mr. Andrew G",Masculino,,1,2,23.45,,Southhampton
+785,0,3,"Ali, Mr. William",Masculino,25,0,0,7.05,,Southhampton
+786,0,3,"Harmer, Mr. Abraham (David Lishin)",Masculino,25,0,0,7.25,,Southhampton
+787,1,3,"Sjoblom, Miss. Anna Sofia",Femenino,18,0,0,7.4958,,Southhampton
+788,0,3,"Rice, Master. George Hugh",Masculino,8,4,1,29.125,,Queenstown
+789,1,3,"Dean, Master. Bertram Vere",Masculino,1,1,2,20.575,,Southhampton
+790,0,1,"Guggenheim, Mr. Benjamin",Masculino,46,0,0,79.2,B82 B84,Cherbourg
+791,0,3,"Keane, Mr. Andrew ""Andy""",Masculino,,0,0,7.75,,Queenstown
+792,0,2,"Gaskell, Mr. Alfred",Masculino,16,0,0,26,,Southhampton
+793,0,3,"Sage, Miss. Stella Anna",Femenino,,8,2,69.55,,Southhampton
+794,0,1,"Hoyt, Mr. William Fisher",Masculino,,0,0,30.6958,,Cherbourg
+795,0,3,"Dantcheff, Mr. Ristiu",Masculino,25,0,0,7.8958,,Southhampton
+796,0,2,"Otter, Mr. Richard",Masculino,39,0,0,13,,Southhampton
+797,1,1,"Leader, Dr. Alice (Farnham)",Femenino,49,0,0,25.9292,D17,Southhampton
+798,1,3,"Osman, Mrs. Mara",Femenino,31,0,0,8.6833,,Southhampton
+799,0,3,"Ibrahim Shawah, Mr. Yousseff",Masculino,30,0,0,7.2292,,Cherbourg
+800,0,3,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",Femenino,30,1,1,24.15,,Southhampton
+801,0,2,"Ponesell, Mr. Martin",Masculino,34,0,0,13,,Southhampton
+802,1,2,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",Femenino,31,1,1,26.25,,Southhampton
+803,1,1,"Carter, Master. William Thornton II",Masculino,11,1,2,120,B96 B98,Southhampton
+804,1,3,"Thomas, Master. Assad Alexander",Masculino,0.42,0,1,8.5167,,Cherbourg
+805,1,3,"Hedman, Mr. Oskar Arvid",Masculino,27,0,0,6.975,,Southhampton
+806,0,3,"Johansson, Mr. Karl Johan",Masculino,31,0,0,7.775,,Southhampton
+807,0,1,"Andrews, Mr. Thomas Jr",Masculino,39,0,0,0,A36,Southhampton
+808,0,3,"Pettersson, Miss. Ellen Natalia",Femenino,18,0,0,7.775,,Southhampton
+809,0,2,"Meyer, Mr. August",Masculino,39,0,0,13,,Southhampton
+810,1,1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",Femenino,33,1,0,53.1,E8,Southhampton
+811,0,3,"Alexander, Mr. William",Masculino,26,0,0,7.8875,,Southhampton
+812,0,3,"Lester, Mr. James",Masculino,39,0,0,24.15,,Southhampton
+813,0,2,"Slemen, Mr. Richard James",Masculino,35,0,0,10.5,,Southhampton
+814,0,3,"Andersson, Miss. Ebba Iris Alfrida",Femenino,6,4,2,31.275,,Southhampton
+815,0,3,"Tomlin, Mr. Ernest Portage",Masculino,30.5,0,0,8.05,,Southhampton
+816,0,1,"Fry, Mr. Richard",Masculino,,0,0,0,B102,Southhampton
+817,0,3,"Heininen, Miss. Wendla Maria",Femenino,23,0,0,7.925,,Southhampton
+818,0,2,"Mallet, Mr. Albert",Masculino,31,1,1,37.0042,,Cherbourg
+819,0,3,"Holm, Mr. John Fredrik Alexander",Masculino,43,0,0,6.45,,Southhampton
+820,0,3,"Skoog, Master. Karl Thorsten",Masculino,10,3,2,27.9,,Southhampton
+821,1,1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",Femenino,52,1,1,93.5,B69,Southhampton
+822,1,3,"Lulic, Mr. Nikola",Masculino,27,0,0,8.6625,,Southhampton
+823,0,1,"Reuchlin, Jonkheer. John George",Masculino,38,0,0,0,,Southhampton
+824,1,3,"Moor, Mrs. (Beila)",Femenino,27,0,1,12.475,E121,Southhampton
+825,0,3,"Panula, Master. Urho Abraham",Masculino,2,4,1,39.6875,,Southhampton
+826,0,3,"Flynn, Mr. John",Masculino,,0,0,6.95,,Queenstown
+827,0,3,"Lam, Mr. Len",Masculino,,0,0,56.4958,,Southhampton
+828,1,2,"Mallet, Master. Andre",Masculino,1,0,2,37.0042,,Cherbourg
+829,1,3,"McCormack, Mr. Thomas Joseph",Masculino,,0,0,7.75,,Queenstown
+830,1,1,"Stone, Mrs. George Nelson (Martha Evelyn)",Femenino,62,0,0,80,B28,
+831,1,3,"Yasbeck, Mrs. Antoni (Selini Alexander)",Femenino,15,1,0,14.4542,,Cherbourg
+832,1,2,"Richards, Master. George Sibley",Masculino,0.83,1,1,18.75,,Southhampton
+833,0,3,"Saad, Mr. Amin",Masculino,,0,0,7.2292,,Cherbourg
+834,0,3,"Augustsson, Mr. Albert",Masculino,23,0,0,7.8542,,Southhampton
+835,0,3,"Allum, Mr. Owen George",Masculino,18,0,0,8.3,,Southhampton
+836,1,1,"Compton, Miss. Sara Rebecca",Femenino,39,1,1,83.1583,E49,Cherbourg
+837,0,3,"Pasic, Mr. Jakob",Masculino,21,0,0,8.6625,,Southhampton
+838,0,3,"Sirota, Mr. Maurice",Masculino,,0,0,8.05,,Southhampton
+839,1,3,"Chip, Mr. Chang",Masculino,32,0,0,56.4958,,Southhampton
+840,1,1,"Marechal, Mr. Pierre",Masculino,,0,0,29.7,C47,Cherbourg
+841,0,3,"Alhomaki, Mr. Ilmari Rudolf",Masculino,20,0,0,7.925,,Southhampton
+842,0,2,"Mudd, Mr. Thomas Charles",Masculino,16,0,0,10.5,,Southhampton
+843,1,1,"Serepeca, Miss. Augusta",Femenino,30,0,0,31,,Cherbourg
+844,0,3,"Lemberopolous, Mr. Peter L",Masculino,34.5,0,0,6.4375,,Cherbourg
+845,0,3,"Culumovic, Mr. Jeso",Masculino,17,0,0,8.6625,,Southhampton
+846,0,3,"Abbing, Mr. Anthony",Masculino,42,0,0,7.55,,Southhampton
+847,0,3,"Sage, Mr. Douglas Bullen",Masculino,,8,2,69.55,,Southhampton
+848,0,3,"Markoff, Mr. Marin",Masculino,35,0,0,7.8958,,Cherbourg
+849,0,2,"Harper, Rev. John",Masculino,28,0,1,33,,Southhampton
+850,1,1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",Femenino,,1,0,89.1042,C92,Cherbourg
+851,0,3,"Andersson, Master. Sigvard Harald Elias",Masculino,4,4,2,31.275,,Southhampton
+852,0,3,"Svensson, Mr. Johan",Masculino,74,0,0,7.775,,Southhampton
+853,0,3,"Boulos, Miss. Nourelain",Femenino,9,1,1,15.2458,,Cherbourg
+854,1,1,"Lines, Miss. Mary Conover",Femenino,16,0,1,39.4,D28,Southhampton
+855,0,2,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",Femenino,44,1,0,26,,Southhampton
+856,1,3,"Aks, Mrs. Sam (Leah Rosen)",Femenino,18,0,1,9.35,,Southhampton
+857,1,1,"Wick, Mrs. George Dennick (Mary Hitchcock)",Femenino,45,1,1,164.8667,,Southhampton
+858,1,1,"Daly, Mr. Peter Denis ",Masculino,51,0,0,26.55,E17,Southhampton
+859,1,3,"Baclini, Mrs. Solomon (Latifa Qurban)",Femenino,24,0,3,19.2583,,Cherbourg
+860,0,3,"Razi, Mr. Raihed",Masculino,,0,0,7.2292,,Cherbourg
+861,0,3,"Hansen, Mr. Claus Peter",Masculino,41,2,0,14.1083,,Southhampton
+862,0,2,"Giles, Mr. Frederick Edward",Masculino,21,1,0,11.5,,Southhampton
+863,1,1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",Femenino,48,0,0,25.9292,D17,Southhampton
+864,0,3,"Sage, Miss. Dorothy Edith ""Dolly""",Femenino,,8,2,69.55,,Southhampton
+865,0,2,"Gill, Mr. John William",Masculino,24,0,0,13,,Southhampton
+866,1,2,"Bystrom, Mrs. (Karolina)",Femenino,42,0,0,13,,Southhampton
+867,1,2,"Duran y More, Miss. Asuncion",Femenino,27,1,0,13.8583,,Cherbourg
+868,0,1,"Roebling, Mr. Washington Augustus II",Masculino,31,0,0,50.4958,A24,Southhampton
+869,0,3,"van Melkebeke, Mr. Philemon",Masculino,,0,0,9.5,,Southhampton
+870,1,3,"Johnson, Master. Harold Theodor",Masculino,4,1,1,11.1333,,Southhampton
+871,0,3,"Balkic, Mr. Cerin",Masculino,26,0,0,7.8958,,Southhampton
+872,1,1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",Femenino,47,1,1,52.5542,D35,Southhampton
+873,0,1,"Carlsson, Mr. Frans Olof",Masculino,33,0,0,5,B51 B53 B55,Southhampton
+874,0,3,"Vander Cruyssen, Mr. Victor",Masculino,47,0,0,9,,Southhampton
+875,1,2,"Abelson, Mrs. Samuel (Hannah Wizosky)",Femenino,28,1,0,24,,Cherbourg
+876,1,3,"Najib, Miss. Adele Kiamie ""Jane""",Femenino,15,0,0,7.225,,Cherbourg
+877,0,3,"Gustafsson, Mr. Alfred Ossian",Masculino,20,0,0,9.8458,,Southhampton
+878,0,3,"Petroff, Mr. Nedelio",Masculino,19,0,0,7.8958,,Southhampton
+879,0,3,"Laleff, Mr. Kristo",Masculino,,0,0,7.8958,,Southhampton
+880,1,1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",Femenino,56,0,1,83.1583,C50,Cherbourg
+881,1,2,"Shelley, Mrs. William (Imanita Parrish Hall)",Femenino,25,0,1,26,,Southhampton
+882,0,3,"Markun, Mr. Johann",Masculino,33,0,0,7.8958,,Southhampton
+883,0,3,"Dahlberg, Miss. Gerda Ulrika",Femenino,22,0,0,10.5167,,Southhampton
+884,0,2,"Banfield, Mr. Frederick James",Masculino,28,0,0,10.5,,Southhampton
+885,0,3,"Sutehall, Mr. Henry Jr",Masculino,25,0,0,7.05,,Southhampton
+886,0,3,"Rice, Mrs. William (Margaret Norton)",Femenino,39,0,5,29.125,,Queenstown
+887,0,2,"Montvila, Rev. Juozas",Masculino,27,0,0,13,,Southhampton
+888,1,1,"Graham, Miss. Margaret Edith",Femenino,19,0,0,30,B42,Southhampton
+889,0,3,"Johnston, Miss. Catherine Helen ""Carrie""",Femenino,,1,2,23.45,,Southhampton
+890,1,1,"Behr, Mr. Karl Howell",Masculino,26,0,0,30,C148,Cherbourg
+891,0,3,"Dooley, Mr. Patrick",Masculino,32,0,0,7.75,,Queenstown
